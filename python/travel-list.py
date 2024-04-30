@@ -16,7 +16,7 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 # 한글 지역명과 영어 지역명 대응하는 딕셔너리 생성
 region_dict = {
     "강남구": "Gangnam-gu",
-    "강동구": "Gangdong-gu",   
+    "강동구": "Gangdong-gu",
     "강북구": "Gangbuk-gu",
     "강서구": "Gangseo-gu",
     "관악구": "Gwanak-gu",
@@ -50,11 +50,12 @@ service = ChromeService(executable_path=ChromeDriverManager().install())
 for region in region_dict:
     # 영어 지역명 가져오기
     region_en = region_dict[region]
-    
+    print(region)
+
     # 지역명을 URL에 포함하여 URL 생성
     url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={region}+여행"
     filename = f"chart_travel_{region_en}-{current_date}.json"
-    
+
     # 웹드라이버 초기화
     browser = webdriver.Chrome(service=service, options=options)
     browser.get(url)
@@ -80,10 +81,9 @@ for region in region_dict:
             'image_url': img_tag,
             'link': link_tag
         })
-
+        
     # 데이터를 JSON 파일로 저장
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(travel_data, f, ensure_ascii=False, indent=4)
-
     # 브라우저 종료
     browser.quit()
