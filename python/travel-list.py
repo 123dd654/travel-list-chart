@@ -16,7 +16,7 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 # 한글 지역명과 영어 지역명 대응하는 딕셔너리 생성
 region_dict = {
     "강남구": "Gangnam-gu",
-    "강동구": "Gangdong-gu",
+    "강동구": "Gangdong-gu",   
     "강북구": "Gangbuk-gu",
     "강서구": "Gangseo-gu",
     "관악구": "Gwanak-gu",
