@@ -42,8 +42,8 @@ jobs:
 
     - name: commits
       run: |
-        git config --global user.email "kjw040416@gmail.com"
-        git config --global user.name "KIMJW04"
+        git config --global user.email "rhthrck12@gmail.com"
+        git config --global user.name "123dd654"
         git add chart_travel_*.json  # 와일드카드 사용
         git commit -m "여행지차트 수집"
 
