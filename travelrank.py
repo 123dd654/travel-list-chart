@@ -47,10 +47,7 @@ region_dict = {
 service = ChromeService(executable_path=ChromeDriverManager().install())
 
 # 각 지역에 대한 정보를 가져와서 파일로 저장
-for region in region_dict:
-    # 영어 지역명 가져오기
-    region_en = region_dict[region]
-
+for region, region_en in region_dict.items():
     # 지역명을 URL에 포함하여 URL 생성
     url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={region}+여행"
     filename = f"chart_travel_{region_en}-{current_date}.json"
@@ -86,3 +83,4 @@ for region in region_dict:
     # 데이터를 JSON 파일로 저장
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(travel_data, f, ensure_ascii=False, indent=4)
+
