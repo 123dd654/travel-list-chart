@@ -45,9 +45,11 @@ jobs:
 
     - name: Move generated files to respective folders
       run: |
-        mv chart_seoul*.json seoul/
-        mv chart_Busan*.json Busan/
-        mv chart_Daegu*.json Daegu/
+        for file in chart_travel-*.json; do
+          city=$(echo "$file" | cut -d'-' -f3)
+          mkdir -p "$city"
+          mv "$file" "$city/"
+        done
 
     - name: Commit changes
       run: |
