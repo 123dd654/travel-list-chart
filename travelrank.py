@@ -80,6 +80,6 @@ for region, region_en in region_dict.items():
             'link': link_tag
         })
         
-    # 데이터를 JSON 파일로 저장
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(travel_data, f, ensure_ascii=False, indent=4
+# 데이터를 JSON 파일로 저장
+with open(filename, 'w', encoding='utf-8') as f:
+    json.dump(travel_data, f, ensure_ascii=False, indent=4)
