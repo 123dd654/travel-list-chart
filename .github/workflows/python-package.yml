@@ -51,8 +51,6 @@ jobs:
           mv "$file" "$city/"
         done
 
-
-
     - name: Commit changes
       run: |
         git config --global user.email "rhthrck12@gmail.com"
