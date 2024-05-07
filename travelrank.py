@@ -14,31 +14,33 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 한글 지역명과 영어 지역명 대응하는 딕셔너리 생성
 region_dict = {
-    "강남구": "Gangnam-gu",
-    "강동구": "Gangdong-gu",
-    "강북구": "Gangbuk-gu",
-    "강서구": "Gangseo-gu",
-    "관악구": "Gwanak-gu",
-    "광진구": "Gwangjin-gu",
-    "구로구": "Guro-gu",
-    "금천구": "Geumcheon-gu",
-    "노원구": "Nowon-gu",
-    "도봉구": "Dobong-gu",
-    "동대문구": "Dongdaemun-gu",
-    "동작구": "Dongjak-gu",
-    "마포구": "Mapo-gu",
-    "서대문구": "Seodaemun-gu",
-    "서초구": "Seocho-gu",
-    "성동구": "Seongdong-gu",
-    "성북구": "Seongbuk-gu",
-    "송파구": "Songpa-gu",
-    "양천구": "Yangcheon-gu",
-    "영등포구": "Yeongdeungpo-gu",
-    "용산구": "Yongsan-gu",
-    "은평구": "Eunpyeong-gu",
-    "종로구": "Jongno-gu",
-    "중구": "Jung-gu",
-    "중랑구": "Jungnang-gu"
+   "seoul": {
+        "강남구": "Gangnam-gu",
+        "강동구": "Gangdong-gu",
+        "강북구": "Gangbuk-gu",
+        "강서구": "Gangseo-gu",
+        "관악구": "Gwanak-gu",
+        "광진구": "Gwangjin-gu",
+        "구로구": "Guro-gu",
+        "금천구": "Geumcheon-gu",
+        "노원구": "Nowon-gu",
+        "도봉구": "Dobong-gu",
+        "동대문구": "Dongdaemun-gu",
+        "동작구": "Dongjak-gu",
+        "마포구": "Mapo-gu",
+        "서대문구": "Seodaemun-gu",
+        "서초구": "Seocho-gu",
+        "성동구": "Seongdong-gu",
+        "성북구": "Seongbuk-gu",
+        "송파구": "Songpa-gu",
+        "양천구": "Yangcheon-gu",
+        "영등포구": "Yeongdeungpo-gu",
+        "용산구": "Yongsan-gu",
+        "은평구": "Eunpyeong-gu",
+        "종로구": "Jongno-gu",
+        "중구": "Jung-gu",
+        "중랑구": "Jungnang-gu"
+    }
 }
 
 # 웹드라이브 설치
