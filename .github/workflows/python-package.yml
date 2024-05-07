@@ -33,13 +33,7 @@ jobs:
         pip install selenium
         pip install webdriver_manager
        
-    - name: Create city folders
-      run: |
-        mkdir -p seoul
-        mkdir -p Busan
-        mkdir -p Daegu
-
-    - name: Run script to collect data
+    - name: Run my file
       run: |
         python3 travelrank.py
 
@@ -51,14 +45,14 @@ jobs:
           mv "$file" "$city/"
         done
 
-    - name: Commit changes
+    - name: Commits
       run: |
         git config --global user.email "rhthrck12@gmail.com"
         git config --global user.name "123dd654"
-        git add seoul/ Busan/ Daegu/
-        git commit -m "Update travel data"
-        
-    - name: Push changes
+        git add chart_travel_*.json
+        git commit -m "Update travel chart data"
+    
+    - name: Push
       uses: ad-m/github-push-action@master
       with: 
         branch: "main"
