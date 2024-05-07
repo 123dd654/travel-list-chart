@@ -50,7 +50,7 @@ service = ChromeService(executable_path=ChromeDriverManager().install())
 for region, region_en in region_dict.items():
     # 지역명을 URL에 포함하여 URL 생성
     url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={region}+여행"
-    filename = f"chart_travel_{region_en}-{current_date}.json"
+    filename = f"chart_travel_{region}-{current_date}.json"
 
     # 웹드라이버 초기화
     options = ChromeOptions()
@@ -82,5 +82,4 @@ for region, region_en in region_dict.items():
         
     # 데이터를 JSON 파일로 저장
     with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(travel_data, f, ensure_ascii=False, indent=4)
-
+        json.dump(travel_data, f, ensure_ascii=False, indent=4
