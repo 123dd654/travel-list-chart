@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "멜로드도산 롯데백화점 인천점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_9%2F1708944475989NkVaX_JPEG%2FDSC01209_2.JPG&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1937943460"
-    },
-    {
-        "ranking": "14",
         "title": "인천향교",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA5MThfMTcg%2FMDAxNjk1MDQxNDEyNzYw.-A3vSQcynzHFXjTHT2b81_tFB2CnH0-IPaNTzxwS6pcg.h_hWQ5tXTsAEMzEkckEpOpJDJOEzw1obLDfYHdwZa2gg.JPEG.daitouryou%2F230428_%25B0%25E6%25B1%25E2%25B3%25B2%25BA%25CE_%25C0%25CE%25C3%25B5_%2528279%2529.jpg%23800x533&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/20095190"
+    },
+    {
+        "ranking": "14",
+        "title": "멜로드도산 롯데백화점 인천점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_9%2F1708944475989NkVaX_JPEG%2FDSC01209_2.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1937943460"
     },
     {
         "ranking": "15",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
+        "title": "카페 위위",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220527_196%2F16536228754788lXqf_JPEG%2FKakaoTalk_20220525_161957980.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1983691627"
+    },
+    {
+        "ranking": "19",
         "title": "카페삼층",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210223_198%2F161407560034353HDJ_JPEG%2FCsUsFDMVKkhO__0jndp-NoVK.JPG.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1644195015"
     },
     {
-        "ranking": "19",
+        "ranking": "20",
         "title": "앨리웨이",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210316_229%2F1615892698688LrdB1_JPEG%2F4A2aEo9bKRYgUH7cwzttW4-p.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1463662615"
-    },
-    {
-        "ranking": "20",
-        "title": "카페 위위",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220527_196%2F16536228754788lXqf_JPEG%2FKakaoTalk_20220525_161957980.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1983691627"
     }
 ]

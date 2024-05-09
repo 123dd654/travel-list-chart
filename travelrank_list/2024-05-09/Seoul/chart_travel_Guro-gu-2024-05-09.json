@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "예커피",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240223_33%2F17086818486578o6Nz_JPEG%2FIMG_0167.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/313487645"
-    },
-    {
-        "ranking": "16",
         "title": "NC 신구로점",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEyMDRfMjc0%2FMDAxNzAxNjk0NTk0MDU4.GE3yNOiovFk9m3DdNbhVRrUt0AaVlRaJUiz45yaLVxAg.zlP_C6T_G8z3ftrOojLXz9flwgfY_Cxa16tDlkHYKewg.JPEG.skanf5325%2FIMG_8599.jpg%23900x676&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1010354070"
+    },
+    {
+        "ranking": "16",
+        "title": "예커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240223_33%2F17086818486578o6Nz_JPEG%2FIMG_0167.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/313487645"
     },
     {
         "ranking": "17",

@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "Etalee",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230512_239%2F16838870597848a2Lo_JPEG%2FD5DB2B5D-24D0-4C36-864E-C42D2F729BDB.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1120229812"
-    },
-    {
-        "ranking": "13",
         "title": "후스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220803_7%2F1659478513226EDx5A_JPEG%2FA13647D6-CF9F-4B69-B235-B2D9E8F9F36C.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/33317685"
+    },
+    {
+        "ranking": "13",
+        "title": "Etalee",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230512_239%2F16838870597848a2Lo_JPEG%2FD5DB2B5D-24D0-4C36-864E-C42D2F729BDB.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1120229812"
     },
     {
         "ranking": "14",

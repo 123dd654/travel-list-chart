@@ -91,15 +91,15 @@
     },
     {
         "ranking": "16",
-        "title": "오동공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_118%2F1441009690521LHIvn_JPEG%2F126168536440440_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/19589072"
-    },
-    {
-        "ranking": "17",
         "title": "소설원 서가",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230428_105%2F1682684037258NXjb8_PNG%2F%25BC%25D2%25BC%25B3%25BF%25F8%25BC%25AD%25B0%25A1_B.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1318353858"
+    },
+    {
+        "ranking": "17",
+        "title": "오동공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_118%2F1441009690521LHIvn_JPEG%2F126168536440440_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19589072"
     },
     {
         "ranking": "18",

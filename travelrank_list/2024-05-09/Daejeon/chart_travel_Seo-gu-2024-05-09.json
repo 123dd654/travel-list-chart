@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
+        "title": "하레하레 둔산점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230601_34%2F1685582630575gfOyD_JPEG%2FKakaoTalk_20230417_125149870.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37883270"
+    },
+    {
+        "ranking": "19",
         "title": "디어푸딩",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230630_77%2F1688095960862mpeSD_JPEG%2FF46B2EC1-6668-4CDD-A852-49FADECA0BFA.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1271580035"
     },
     {
-        "ranking": "19",
+        "ranking": "20",
         "title": "원잇투메종탄방",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240421_39%2F1713705075556Gy3GD_JPEG%2FBC71B618-BDA1-461D-9B76-B106F80E15A6.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1111360367"
-    },
-    {
-        "ranking": "20",
-        "title": "하레하레 둔산점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230601_34%2F1685582630575gfOyD_JPEG%2FKakaoTalk_20230417_125149870.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37883270"
     }
 ]

@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "봉땅",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221003_112%2F16648061496962VuPL_JPEG%2F2C553FDC-F717-4DA1-8411-61FAD7E00E8A.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1172833362"
-    },
-    {
-        "ranking": "16",
         "title": "벨라스가든 석촌호수점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240314_144%2F1710382588409MNGXX_JPEG%2FIMG_5300.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/859737654"
+    },
+    {
+        "ranking": "16",
+        "title": "봉땅",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221003_112%2F16648061496962VuPL_JPEG%2F2C553FDC-F717-4DA1-8411-61FAD7E00E8A.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1172833362"
     },
     {
         "ranking": "17",

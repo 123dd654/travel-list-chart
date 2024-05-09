@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "학성공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_40%2F14410105365746YzWi_JPEG%2F126172555340038_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/19699960"
-    },
-    {
-        "ranking": "16",
         "title": "골든드롭",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200513_149%2F1589363658593ViR0F_JPEG%2Fbl6o4Qx0hXoT-9W6gZY4-kTr.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1985061763"
+    },
+    {
+        "ranking": "16",
+        "title": "학성공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_40%2F14410105365746YzWi_JPEG%2F126172555340038_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19699960"
     },
     {
         "ranking": "17",

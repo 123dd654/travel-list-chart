@@ -1,15 +1,15 @@
 [
     {
         "ranking": "1",
-        "title": "중랑캠핑숲",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221222_247%2F1671675794425aVAWk_JPEG%2FKakaoTalk_20221222_102923253_07.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13466661"
-    },
-    {
-        "ranking": "2",
         "title": "중랑장미공원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190704_211%2F1562246716747TMb9y_JPEG%2FUaoK8A8M4yXuJDDGsC_06Wog.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37851221"
+    },
+    {
+        "ranking": "2",
+        "title": "중랑캠핑숲",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221222_247%2F1671675794425aVAWk_JPEG%2FKakaoTalk_20221222_102923253_07.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13466661"
     },
     {
         "ranking": "3",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "스타벅스 상봉점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37775015"
+        "title": "진스바바",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_6%2F1701351311357iDtCN_JPEG%2FKakaoTalk_20231130_223405234_03.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1078154180"
     }
 ]

@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "승촌보캠핑장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170327_64%2F1490575228062OVp6a_JPEG%2FuserRegistration_686801c9f76e4533a7ef2a3a3bab504d_____2.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/32769739"
-    },
-    {
-        "ranking": "19",
         "title": "힐사이드양림",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_154%2F1705214105021fuVIW_JPEG%2FKakaoTalk_20240114_145119434.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1235195979"
+    },
+    {
+        "ranking": "19",
+        "title": "승촌보캠핑장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170327_64%2F1490575228062OVp6a_JPEG%2FuserRegistration_686801c9f76e4533a7ef2a3a3bab504d_____2.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/32769739"
     },
     {
         "ranking": "20",

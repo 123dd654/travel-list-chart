@@ -55,15 +55,15 @@
     },
     {
         "ranking": "10",
-        "title": "모던기와커피",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA5MDVfMTY2%2FMDAxNjkzOTIyMzAyMjQ1.F52hpuSXdaG7UyozqIx9F5we_rb6i3AoxYp-2m6Fd98g.pSHJgntrF424vU-0GenPot5sUYzs6J_Q2MYddw_Hv2Eg.JPEG.hr_0925%2FIMG_0455_Original.JPG%23900x676&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38326608"
-    },
-    {
-        "ranking": "11",
         "title": "구리시고구려대장간마을",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_226%2F1441053764543OXyTi_JPEG%2F106078583949614_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13043905"
+    },
+    {
+        "ranking": "11",
+        "title": "모던기와커피",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA5MDVfMTY2%2FMDAxNjkzOTIyMzAyMjQ1.F52hpuSXdaG7UyozqIx9F5we_rb6i3AoxYp-2m6Fd98g.pSHJgntrF424vU-0GenPot5sUYzs6J_Q2MYddw_Hv2Eg.JPEG.hr_0925%2FIMG_0455_Original.JPG%23900x676&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38326608"
     },
     {
         "ranking": "12",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "롯데아울렛 구리점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220826_138%2F1661480866049bja3W_JPEG%2F%25BE%25C6%25BF%25EF%25B7%25BF_%25B1%25B8%25B8%25AE%25C1%25A1_%25BA%25B8%25C1%25A4.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36161094"
+        "title": "파차",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221214_229%2F1670990510556aJUKe_JPEG%2F%25BF%25DC%25BA%25CE1.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1553089750"
     }
 ]

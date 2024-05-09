@@ -13,15 +13,15 @@
     },
     {
         "ranking": "3",
-        "title": "대구미술관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_263%2F1712640672901ee3Gd_JPEG%2F%25C8%25B8%25C8%25AD%25C0%25FB.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36667448"
-    },
-    {
-        "ranking": "4",
         "title": "국립대구박물관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211102_273%2F1635826577773Cot6U_JPEG%2FhHr_d37MrflJuBLU0WcA3eoI.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11620560"
+    },
+    {
+        "ranking": "4",
+        "title": "아우어베이커리 수성못점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_289%2F1704791901605xDVAP_JPEG%2F%25C1%25A6%25B8%25F1-%25BE%25F8%25C0%25BD-1.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1361522853"
     },
     {
         "ranking": "5",
@@ -31,9 +31,9 @@
     },
     {
         "ranking": "6",
-        "title": "아우어베이커리 수성못점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_289%2F1704791901605xDVAP_JPEG%2F%25C1%25A6%25B8%25F1-%25BE%25F8%25C0%25BD-1.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1361522853"
+        "title": "대구미술관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_263%2F1712640672901ee3Gd_JPEG%2F%25C8%25B8%25C8%25AD%25C0%25FB.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/36667448"
     },
     {
         "ranking": "7",

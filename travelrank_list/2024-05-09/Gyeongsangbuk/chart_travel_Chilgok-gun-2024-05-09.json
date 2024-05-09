@@ -67,33 +67,33 @@
     },
     {
         "ranking": "12",
-        "title": "하루체험농장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210526_63%2F16220055439509z2kq_JPEG%2FTWoTQLhRxywNL1dKR0LIcEvh.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/967612971"
-    },
-    {
-        "ranking": "13",
         "title": "엠비언트",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220903_112%2F16621855668127Ofle_JPEG%2F1661674183564-14.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1095863352"
     },
     {
-        "ranking": "14",
+        "ranking": "13",
         "title": "그라디언트",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221103_205%2F1667484362050C9iX2_JPEG%2FKakaoTalk_Photo_2022-11-03-22-54-37_001.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1608022847"
     },
     {
-        "ranking": "15",
+        "ranking": "14",
         "title": "팔공산금화자연휴양림",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA1MDRfMTEx%2FMDAxNDkzODc5NzU1ODAw.8sK7gwvdm54Wku62Ab65kxX_Z5q6JRvLQ5i_mq5gnv8g.geLuKcQhifWMAnbui7MluYXzNENZh7oZPmc64dZwnoUg.JPEG.ljwoo0302%2F20170429_071400.jpg%23550x309&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/36277048"
     },
     {
-        "ranking": "16",
+        "ranking": "15",
         "title": "칠곡보생태공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMDdfMTky%2FMDAxNjAyMDY0ODUxNzU2.AonfHpnPkVR-B0Q6i6AD1EF_FKkfuyeMhSEsXfSOst0g.bs4ST5aOVi9hPw8nVJhlUGBwYkeuMaWO9IEp8f8GHtEg.JPEG.haree42%2FDSC02310.JPG%236000x4000&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/30881770"
+    },
+    {
+        "ranking": "16",
+        "title": "하루체험농장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210526_63%2F16220055439509z2kq_JPEG%2FTWoTQLhRxywNL1dKR0LIcEvh.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/967612971"
     },
     {
         "ranking": "17",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "동명지수변생태공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA0MTdfNzMg%2FMDAxNzEzMzM0OTc2NTkx._ycbw98nG4-EJ2BPvV4SZXY0gld96FoJTptxYkxv7PAg.HhwqeEV7-EjkkKCyWjAhJbg3KW16kwdrdWkxp48IEVcg.JPEG%2F%25C4%25A5%25B0%25EE-%25B5%25BF%25B8%25ED%25C0%25FA%25BC%25F6%25C1%25F6.jpg%23900x900&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/607691769"
+        "title": "힐링글램핑",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20231025_259%2F1698235536239CHsAC_JPEG%2FKakaoTalk_20231025_210457602.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1225596718"
     }
 ]

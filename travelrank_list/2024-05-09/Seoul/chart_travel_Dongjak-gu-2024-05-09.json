@@ -43,15 +43,15 @@
     },
     {
         "ranking": "8",
-        "title": "타요키즈카페 보라매점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230501_150%2F1682937039908m4JSd_JPEG%2FKakaoTalk_20230501_192443654.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/860966000"
-    },
-    {
-        "ranking": "9",
         "title": "부강탕",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240106_196%2F1704546978898GsxMm_JPEG%2FKakaoTalk_20240106_221232105_03.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1543495768"
+    },
+    {
+        "ranking": "9",
+        "title": "타요키즈카페 보라매점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230501_150%2F1682937039908m4JSd_JPEG%2FKakaoTalk_20230501_192443654.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/860966000"
     },
     {
         "ranking": "10",
@@ -73,21 +73,21 @@
     },
     {
         "ranking": "13",
+        "title": "프랑세즈",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220915_147%2F16632376933364fc3h_JPEG%2F20220909_180859.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/32799888"
+    },
+    {
+        "ranking": "14",
         "title": "더한강",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_42%2F1704348546660OgSE5_JPEG%2F%25B8%25C5%25C0%25E5_%25B4%25F5%25C7%25D1%25B0%25AD.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1561725884"
     },
     {
-        "ranking": "14",
+        "ranking": "15",
         "title": "쁘띠우스 베이커리",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231013_210%2F1697176440246GJHgu_JPEG%2F48D1FA60-EC0A-4D82-8673-4FF6794788B6.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1269259731"
-    },
-    {
-        "ranking": "15",
-        "title": "프랑세즈",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220915_147%2F16632376933364fc3h_JPEG%2F20220909_180859.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/32799888"
     },
     {
         "ranking": "16",
@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "카페아뜨레",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240421_201%2F1713630575153FWgfc_JPEG%2F1000046616.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1145045080"
-    },
-    {
-        "ranking": "19",
         "title": "브레드숨",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220919_6%2F16635698404055UkI9_PNG%2F%25BA%25EA%25B7%25B9%25B5%25E5.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/36812651"
+    },
+    {
+        "ranking": "19",
+        "title": "카페아뜨레",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240421_201%2F1713630575153FWgfc_JPEG%2F1000046616.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1145045080"
     },
     {
         "ranking": "20",
