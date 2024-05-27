@@ -328,11 +328,12 @@ for kaul in korean_administrative_units_list:
                 'image_url': img_tag,
                 'link': link_tag
             })
-            
+
         filename = os.path.join(folder_path, kaul, f"chart_travel_{region_en}-{current_date}.json")
 
-        # 데이터를 JSON 파일로 저장
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(travel_data, f, ensure_ascii=False, indent=4)
+        # 데이터가 비어있지 않은 경우에만 JSON 파일로 저장
+        if travel_data:
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(travel_data, f, ensure_ascii=False, indent=4)
         # 브라우저 종료
         browser.quit()
