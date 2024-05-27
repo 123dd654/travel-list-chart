@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "운림삼별초공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_147%2F1441073149762qEjRM_JPEG%2F156559617941647_0.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/33912578"
-    },
-    {
-        "ranking": "20",
         "title": "진도읍조금시장",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA0MThfMiAg%2FMDAxNTg3MTk4NTMxMjQ3.G9n9hedV51RWJjsq3DiwWErp1o3ZQEfzRcQG8vsULn8g.VhOJtGfaHdgZCjXlhmoFktY3siVSgkBw-wh99bDMr2wg.JPEG.capaaaa%2F1587198529349.jpg%23900x506&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/944879049"
+    },
+    {
+        "ranking": "20",
+        "title": "운림삼별초공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_147%2F1441073149762qEjRM_JPEG%2F156559617941647_0.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/33912578"
     }
 ]

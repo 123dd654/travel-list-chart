@@ -97,15 +97,15 @@
     },
     {
         "ranking": "17",
-        "title": "전등사 템플스테이",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_82%2F1488265651000wQHyV_JPEG%2FDSC_3159.JPG&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/96116817"
-    },
-    {
-        "ranking": "18",
         "title": "민머루해수욕장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190519_35%2F15582356211628zvqt_JPEG%2FykDpWTcPjZ4iUitun-ZTc15G.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11491705"
+    },
+    {
+        "ranking": "18",
+        "title": "전등사 템플스테이",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_82%2F1488265651000wQHyV_JPEG%2FDSC_3159.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/96116817"
     },
     {
         "ranking": "19",

@@ -43,21 +43,21 @@
     },
     {
         "ranking": "8",
-        "title": "세종중앙공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEwMDVfMTI2%2FMDAxNjMzNDM3ODI2MTkx.XFC8wr6jvAMaTl9WuXBIaSUVc2-hHBQ_MPv6fApJtu8g.r8tF3NKylZE0_1qiw4k893UzpCCyiF2T-8wqPv6n0hIg.JPEG.sjyun1004%2F20211003%25A3%25DF112517.jpg%23900x675&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37090420"
-    },
-    {
-        "ranking": "9",
         "title": "카페용담",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200505_269%2F1588652827344HFkj9_JPEG%2FHnPPxRCMZT7U2OxJlQ_BX1Ee.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1925365652"
     },
     {
-        "ranking": "10",
+        "ranking": "9",
         "title": "플레져",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230831_50%2F1693448107273DYGsg_JPEG%2F_%25C7%25C3%25B7%25B9%25C1%25AE_%25C0%25CE%25BD%25BA%25C5%25B8%25BE%25F7%25B7%25CE%25B5%25E5%25BF%25EB-001.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1005440383"
+    },
+    {
+        "ranking": "10",
+        "title": "세종중앙공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEwMDVfMTI2%2FMDAxNjMzNDM3ODI2MTkx.XFC8wr6jvAMaTl9WuXBIaSUVc2-hHBQ_MPv6fApJtu8g.r8tF3NKylZE0_1qiw4k893UzpCCyiF2T-8wqPv6n0hIg.JPEG.sjyun1004%2F20211003%25A3%25DF112517.jpg%23900x675&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37090420"
     },
     {
         "ranking": "11",

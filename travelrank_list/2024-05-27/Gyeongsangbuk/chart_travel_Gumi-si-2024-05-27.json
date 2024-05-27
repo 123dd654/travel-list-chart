@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "마켓메이",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240210_28%2F1707576390686GdeBf_JPEG%2FIMG_5343.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38737984"
-    },
-    {
-        "ranking": "20",
         "title": "벨빌베이크하우스 금오산점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221208_171%2F1670494136710nCNQa_JPEG%2FKakaoTalk_20221208_184737627_02.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1359766544"
+    },
+    {
+        "ranking": "20",
+        "title": "마켓메이",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240210_28%2F1707576390686GdeBf_JPEG%2FIMG_5343.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38737984"
     }
 ]

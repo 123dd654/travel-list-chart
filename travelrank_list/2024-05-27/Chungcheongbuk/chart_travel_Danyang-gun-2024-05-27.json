@@ -49,15 +49,15 @@
     },
     {
         "ranking": "9",
-        "title": "수양개빛터널",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220921_174%2F16637506865417KO4Y_JPEG%2FKakaoTalk_20220921_175716277.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/412887751"
-    },
-    {
-        "ranking": "10",
         "title": "소백산",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_83%2F1441007445717aFDvz_JPEG%2F11623614_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11623614"
+    },
+    {
+        "ranking": "10",
+        "title": "수양개빛터널",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220921_174%2F16637506865417KO4Y_JPEG%2FKakaoTalk_20220921_175716277.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/412887751"
     },
     {
         "ranking": "11",

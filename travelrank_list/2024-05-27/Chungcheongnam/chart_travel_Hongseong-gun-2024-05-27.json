@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "용봉산캠핑장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_201%2F1441098132552xrcrH_JPEG%2F156262543752903_0.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/34551509"
-    },
-    {
-        "ranking": "13",
         "title": "스타벅스 충남홍성DT점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1550643412"
+    },
+    {
+        "ranking": "13",
+        "title": "용봉산캠핑장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_201%2F1441098132552xrcrH_JPEG%2F156262543752903_0.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/34551509"
     },
     {
         "ranking": "14",

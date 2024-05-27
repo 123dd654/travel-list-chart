@@ -55,15 +55,15 @@
     },
     {
         "ranking": "10",
-        "title": "면사무소앞안흥찐빵",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200604_78%2F1591232653536lKpsi_JPEG%2FDU7-V6gdz5858t75rxG73GbP.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11708315"
-    },
-    {
-        "ranking": "11",
         "title": "고라데이마을",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221227_99%2F1672123136962kiJqS_JPEG%2F26.%25B0%25ED%25B6%25F3%25B5%25A5%25C0%25CC%25B8%25B6%25C0%25BB.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/21656744"
+    },
+    {
+        "ranking": "11",
+        "title": "면사무소앞안흥찐빵",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200604_78%2F1591232653536lKpsi_JPEG%2FDU7-V6gdz5858t75rxG73GbP.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11708315"
     },
     {
         "ranking": "12",

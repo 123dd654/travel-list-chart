@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "소양강스카이워크",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191002_81%2F1569946043924kK8RV_JPEG%2FOeerLnhdBmo_FEJ5oGCRKvTR.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38220085"
-    },
-    {
-        "ranking": "19",
         "title": "춘천숲자연휴양림",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230514_216%2F1684048707770rlwrf_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/12947095"
+    },
+    {
+        "ranking": "19",
+        "title": "소양강스카이워크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191002_81%2F1569946043924kK8RV_JPEG%2FOeerLnhdBmo_FEJ5oGCRKvTR.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38220085"
     },
     {
         "ranking": "20",

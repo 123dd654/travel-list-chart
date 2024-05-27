@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
-        "title": "안성목장",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA5MThfNjYg%2FMDAxNjAwNDE3NzIwODUz.xTM89IrNj2HAyvRPQiaGWcNeGNWbzYaKL9xX1pUbOTEg.nAiCiAFQkPYiZB_ZxH7WTuHe5n3nu-lDjW9umEm6OY0g.JPEG.puputm20%2F1600417724055.jpg%23900x675&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/403165901"
-    },
-    {
-        "ranking": "10",
         "title": "스타필드 안성",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200907_190%2F1599438459408zL1bM_JPEG%2Fdjaza0tWeYYWIF1tvC9sZVhB.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/35279998"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "온스어폰어네이처",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_4%2F17055418902683xpza_JPEG%2FKakaoTalk_20220618_233758919.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1546171761"
+    },
+    {
+        "ranking": "11",
+        "title": "안성목장",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA5MThfNjYg%2FMDAxNjAwNDE3NzIwODUz.xTM89IrNj2HAyvRPQiaGWcNeGNWbzYaKL9xX1pUbOTEg.nAiCiAFQkPYiZB_ZxH7WTuHe5n3nu-lDjW9umEm6OY0g.JPEG.puputm20%2F1600417724055.jpg%23900x675&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/403165901"
     },
     {
         "ranking": "12",

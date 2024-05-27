@@ -55,15 +55,15 @@
     },
     {
         "ranking": "10",
-        "title": "수변공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMTZfMjg0%2FMDAxNzA4MDcxNzgxNjQx.xVeYTEgSRG_vHL1HRWZy30yzsl1TiXAodQPiriVcFYwg.__zJrsWEnr80mISQiWxIpCi8qvX64B6O3NxGmImQZbMg.JPEG.tongmo3%2F20240216_144008.jpg%232250x3000&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/33014560"
-    },
-    {
-        "ranking": "11",
         "title": "군탁커피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230522_300%2F1684751549734yOjrE_JPEG%2F9D3E8309-937A-4C12-94D9-D174A53A0092.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1437285128"
+    },
+    {
+        "ranking": "11",
+        "title": "수변공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMTZfMjg0%2FMDAxNzA4MDcxNzgxNjQx.xVeYTEgSRG_vHL1HRWZy30yzsl1TiXAodQPiriVcFYwg.__zJrsWEnr80mISQiWxIpCi8qvX64B6O3NxGmImQZbMg.JPEG.tongmo3%2F20240216_144008.jpg%232250x3000&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/33014560"
     },
     {
         "ranking": "12",

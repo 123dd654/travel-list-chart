@@ -79,15 +79,15 @@
     },
     {
         "ranking": "14",
-        "title": "매미성",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190731_65%2F1564566001529jdXsK_JPEG%2FVV3qSbEGjINj8UTsyhZ31uuG.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38015249"
-    },
-    {
-        "ranking": "15",
         "title": "해금강",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_19%2F1441045643770LLxov_JPEG%2F13491564_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491564"
+    },
+    {
+        "ranking": "15",
+        "title": "매미성",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190731_65%2F1564566001529jdXsK_JPEG%2FVV3qSbEGjINj8UTsyhZ31uuG.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38015249"
     },
     {
         "ranking": "16",

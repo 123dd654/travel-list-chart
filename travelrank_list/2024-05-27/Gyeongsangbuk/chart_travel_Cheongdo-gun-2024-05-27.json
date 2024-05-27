@@ -19,21 +19,21 @@
     },
     {
         "ranking": "4",
-        "title": "청도레일바이크",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240401_272%2F17119553971389qsfK_JPEG%2F%25C3%25BB%25B5%25B5%25B7%25B9%25C0%25CF%25B9%25D9%25C0%25CC%25C5%25A9_%252883%2529.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38258910"
-    },
-    {
-        "ranking": "5",
         "title": "아미꼬뜨",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240129_126%2F1706514369729HP71p_JPEG%2F90382C66-AA0C-4DAF-8C1B-6E967EE6BF16.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1674416095"
     },
     {
-        "ranking": "6",
+        "ranking": "5",
         "title": "카페 랜드스케이프",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240401_190%2F171194830115018ofo_JPEG%2F1711948273929.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1362597301"
+    },
+    {
+        "ranking": "6",
+        "title": "청도레일바이크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240401_272%2F17119553971389qsfK_JPEG%2F%25C3%25BB%25B5%25B5%25B7%25B9%25C0%25CF%25B9%25D9%25C0%25CC%25C5%25A9_%252883%2529.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38258910"
     },
     {
         "ranking": "7",

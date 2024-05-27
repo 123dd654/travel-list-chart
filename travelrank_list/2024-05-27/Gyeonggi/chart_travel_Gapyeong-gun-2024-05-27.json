@@ -19,15 +19,15 @@
     },
     {
         "ranking": "4",
-        "title": "더스테이힐링파크",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240412_153%2F1712910920978Yfe1U_JPEG%2F%25C6%25E4%25BD%25BA%25C6%25BC%25B9%25FA_%25C3%25D6%25C1%25BE_%25B4%25EB%25C1%25F6_1.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38477833"
-    },
-    {
-        "ranking": "5",
         "title": "스카이라인 짚와이어",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210415_165%2F1618453226381H0V3v_JPEG%2FKakaoTalk_20210415_111902867_12.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13583902"
+    },
+    {
+        "ranking": "5",
+        "title": "더스테이힐링파크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240412_153%2F1712910920978Yfe1U_JPEG%2F%25C6%25E4%25BD%25BA%25C6%25BC%25B9%25FA_%25C3%25D6%25C1%25BE_%25B4%25EB%25C1%25F6_1.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38477833"
     },
     {
         "ranking": "6",
