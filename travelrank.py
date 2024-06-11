@@ -7,9 +7,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from datetime import datetime
-import time
 import json
 import os
+import re
 
 # 현재 날짜 가져오기
 current_date = datetime.now().strftime("%Y-%m-%d")
@@ -17,49 +17,49 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 # 한글 지역명과 영어 지역명 대응하는 딕셔너리 생성
 korean_administrative_units_list = {
     "Seoul": {
-        "강남구": "Gangnam-gu",
-        "강동구": "Gangdong-gu",
-        "강북구": "Gangbuk-gu",
-        "강서구": "Gangseo-gu",
-        "관악구": "Gwanak-gu",
-        "광진구": "Gwangjin-gu",
-        "구로구": "Guro-gu",
-        "금천구": "Geumcheon-gu",
-        "노원구": "Nowon-gu",
-        "도봉구": "Dobong-gu",
-        "동대문구": "Dongdaemun-gu",
-        "동작구": "Dongjak-gu",
-        "마포구": "Mapo-gu",
-        "서대문구": "Seodaemun-gu",
-        "서초구": "Seocho-gu",
-        "성동구": "Seongdong-gu",
-        "성북구": "Seongbuk-gu",
-        "송파구": "Songpa-gu",
-        "양천구": "Yangcheon-gu",
-        "영등포구": "Yeongdeungpo-gu",
-        "용산구": "Yongsan-gu",
-        "은평구": "Eunpyeong-gu",
-        "종로구": "Jongno-gu",
-        "중구": "Jung-gu",
-        "중랑구": "Jungnang-gu"
+        "서울강남구": "Gangnam-gu",
+        "서울강동구": "Gangdong-gu",
+        "서울강북구": "Gangbuk-gu",
+        "서울강서구": "Gangseo-gu",
+        "서울관악구": "Gwanak-gu",
+        "서울광진구": "Gwangjin-gu",
+        "서울구로구": "Guro-gu",
+        "서울금천구": "Geumcheon-gu",
+        "서울노원구": "Nowon-gu",
+        "서울도봉구": "Dobong-gu",
+        "서울동대문구": "Dongdaemun-gu",
+        "서울동작구": "Dongjak-gu",
+        "서울마포구": "Mapo-gu",
+        "서울서대문구": "Seodaemun-gu",
+        "서울서초구": "Seocho-gu",
+        "서울성동구": "Seongdong-gu",
+        "서울성북구": "Seongbuk-gu",
+        "서울송파구": "Songpa-gu",
+        "서울양천구": "Yangcheon-gu",
+        "서울영등포구": "Yeongdeungpo-gu",
+        "서울용산구": "Yongsan-gu",
+        "서울은평구": "Eunpyeong-gu",
+        "서울종로구": "Jongno-gu",
+        "서울중구": "Jung-gu",
+        "서울중랑구": "Jungnang-gu"
     },
     "Busan": {
-        "기장군": "Gijang-gun",
-        "강서구": "Gangseo-gu",
-        "금정구": "Geumjeong-gu",
-        "남구": "Nam-gu",
-        "동구": "Dong-gu",
-        "동래구": "Dongnae-gu",
-        "부산진구": "Busanjin-gu",
-        "북구": "Buk-gu",
-        "사상구": "Sasang-gu",
-        "사하구": "Saha-gu",
-        "서구": "Seo-gu",
-        "수영구": "Suyeong-gu",
-        "연제구": "Yeonje-gu",
-        "영도구": "Yeongdo-gu",
-        "중구": "Jung-gu",
-        "해운대구": "Haeundae-gu"
+        "부산기장군": "Gijang-gun",
+        "부산강서구": "Gangseo-gu",
+        "부산금정구": "Geumjeong-gu",
+        "부산남구": "Nam-gu",
+        "부산동구": "Dong-gu",
+        "부산동래구": "Dongnae-gu",
+        "부산부산진구": "Busanjin-gu",
+        "부산북구": "Buk-gu",
+        "부산사상구": "Sasang-gu",
+        "부산사하구": "Saha-gu",
+        "부산서구": "Seo-gu",
+        "부산수영구": "Suyeong-gu",
+        "부산연제구": "Yeonje-gu",
+        "부산영도구": "Yeongdo-gu",
+        "부산중구": "Jung-gu",
+        "부산해운대구": "Haeundae-gu"
     },
     "Daegu": {
         "대구달성군": " Dalseong-gun",
@@ -280,26 +280,21 @@ korean_administrative_units_list = {
     }
 }
 
+
 # 현재 날짜로 된 폴더 생성
-folder_path = os.path.join(os.getcwd(),"travelrank_list", current_date)
-os.makedirs(folder_path, exist_ok=True)
+base_folder_path = os.path.join(os.getcwd(), "travelrank_list", current_date)
+os.makedirs(base_folder_path, exist_ok=True)
 
 # 웹드라이브 설치
 service = ChromeService(executable_path=ChromeDriverManager().install())
 
-for kaul in korean_administrative_units_list:
-    def create_travelrank_list(data, parent_folder_name="."):
-        folder_path = os.path.join(parent_folder_name, kaul)
-        os.makedirs(folder_path, exist_ok=True)
-    create_travelrank_list(kaul, folder_path)
-    # 각 지역에 대한 정보를 가져와서 파일로 저장
-    for region in korean_administrative_units_list[kaul]:
-        # 영어 지역명 가져오기
-        region_en = korean_administrative_units_list[kaul][region]
+for city, districts in korean_administrative_units_list.items():
+    city_folder_path = os.path.join(base_folder_path, city)
+    os.makedirs(city_folder_path, exist_ok=True)
 
-        # 지역명을 URL에 포함하여 URL 생성
-        url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={region}+여행"
-        filename = f"chart_travel_{region_en}-{current_date}.json"
+    for district_korean, district_english in districts.items():
+        # URL 생성
+        url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={district_korean}+여행"
 
         # 웹드라이버 초기화
         options = ChromeOptions()
@@ -308,9 +303,9 @@ for kaul in korean_administrative_units_list:
         browser.get(url)
 
         # 페이지가 완전히 로드될 때까지 대기
-        WebDriverWait(browser, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, "main_pack")))
+        WebDriverWait(browser, 2).until(EC.visibility_of_element_located((By.CLASS_NAME, "main_pack")))
 
-        # 업데이트된 페이지 소스를 변수에 저장
+        # 페이지 소스를 가져와서 파싱
         html_source_updated = browser.page_source
         soup = BeautifulSoup(html_source_updated, 'html.parser')
 
@@ -322,18 +317,64 @@ for kaul in korean_administrative_units_list:
             title = travel.find('span', class_='name-K_anJ').text.strip()
             img_tag = travel.find('img', class_='img-q5u9H')['src']
             link_tag = travel.find('a', class_='anchor-X0MS6')['href']
+
+            # 링크에서 번호 부분만 추출
+            place_id_match = re.search(r'place/(\d+)', link_tag)
+            place_id = place_id_match.group(1) if place_id_match else ""
+
             travel_data.append({
                 'ranking': ranking,
                 'title': title,
                 'image_url': img_tag,
-                'link': link_tag
+                'link': place_id
             })
 
-        filename = os.path.join(folder_path, kaul, f"chart_travel_{region_en}-{current_date}.json")
+        # 각 링크에 접속하여 추가 데이터 추출
+        for travel in travel_data:
+            place_id = travel['link']
+            new_url = f"https://pcmap.place.naver.com/place/{place_id}/home"
+            browser.get(new_url)
+            WebDriverWait(browser, 2).until(EC.visibility_of_element_located((By.ID, "app-root")))
 
-        # 데이터가 비어있지 않은 경우에만 JSON 파일로 저장
-        if travel_data:
-            with open(filename, 'w', encoding='utf-8') as f:
-                json.dump(travel_data, f, ensure_ascii=False, indent=4)
+            detail_html_source = browser.page_source
+            detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
+
+            # lnJFt 클래스명의 span 태그에서 텍스트 한 번만 추출
+            span_text = ""
+            span_element = detail_soup.find('span', class_='lnJFt')
+            if span_element:
+                span_text = span_element.text.strip()
+
+            # PXMot 클래스명의 span 태그에서 a 태그의 텍스트 추출
+            reviews = detail_soup.find_all('span', class_='PXMot')
+            human_review = ""
+            blog_review = ""
+            for review in reviews:
+                a_tag = review.find('a')
+                if a_tag:
+                    review_text = ''.join(a_tag.stripped_strings)
+                    if '방문자리뷰' in review_text:
+                        human_review = review_text.replace('방문자리뷰', '').strip()
+                    elif '블로그리뷰' in review_text:
+                        blog_review = review_text.replace('블로그리뷰', '').strip()
+
+            # LDgIH 클래스명의 span 태그에서 텍스트 한 번만 추출
+            addresses_text = ""
+            addresses_element = detail_soup.find('span', class_='LDgIH')
+            if addresses_element:
+                addresses_text = addresses_element.text.strip()
+
+            travel.update({
+                'title_cate': span_text,
+                'human_review': human_review,
+                'blog_review': blog_review,
+                'addresses': addresses_text
+            })
+
+        # 파일명 생성 및 데이터 저장
+        filename = os.path.join(city_folder_path, f"chart_travel_{district_english}-{current_date}.json")
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(travel_data, f, ensure_ascii=False, indent=4)
+
         # 브라우저 종료
         browser.quit()
