@@ -6,7 +6,7 @@
         "link": "1677690070",
         "title_cate": "자연,생태공원",
         "human_review": "84",
-        "blog_review": "1,400",
+        "blog_review": "1,401",
         "addresses": "경기 군포시 산본동 917-3"
     },
     {
@@ -15,7 +15,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201218_196%2F1608272571669JIQY0_JPEG%2FHht9TEQe2xxihNyYhEKY94_z.jpg&type=f210_210_domesearch",
         "link": "1671262980",
         "title_cate": "베이커리",
-        "human_review": "11,974",
+        "human_review": "11,976",
         "blog_review": "1,439",
         "addresses": "경기 군포시 번영로 252"
     },
@@ -46,7 +46,7 @@
         "link": "20669203",
         "title_cate": "도시,테마공원",
         "human_review": "64",
-        "blog_review": "2,143",
+        "blog_review": "2,142",
         "addresses": "경기 군포시 산본동 1152-14"
     },
     {
@@ -66,7 +66,7 @@
         "link": "258338594",
         "title_cate": "도시,테마공원",
         "human_review": "15",
-        "blog_review": "406",
+        "blog_review": "407",
         "addresses": "경기 군포시 호수로 92 반월호수공원"
     },
     {
@@ -126,21 +126,11 @@
         "link": "13491347",
         "title_cate": "산",
         "human_review": "25",
-        "blog_review": "1,443",
+        "blog_review": "1,444",
         "addresses": "경기 군포시 속달로 347-4 수리산도립공원 탐방안내소"
     },
     {
         "ranking": "14",
-        "title": "요요연연",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220709_189%2F1657377986753dWsxS_JPEG%2FB18CA3D6-AC34-49CF-B61A-057E4025B965.jpeg&type=f210_210_domesearch",
-        "link": "1212048604",
-        "title_cate": "베이커리",
-        "human_review": "2,116",
-        "blog_review": "260",
-        "addresses": "경기 군포시 산본천로 18 1층"
-    },
-    {
-        "ranking": "15",
         "title": "우브 베이커리",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220708_13%2F16572826721568MepG_JPEG%2F1657282585780.jpg&type=f210_210_domesearch",
         "link": "1156212847",
@@ -150,12 +140,22 @@
         "addresses": "경기 군포시 산본천로 203 1층"
     },
     {
+        "ranking": "15",
+        "title": "요요연연",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220709_189%2F1657377986753dWsxS_JPEG%2FB18CA3D6-AC34-49CF-B61A-057E4025B965.jpeg&type=f210_210_domesearch",
+        "link": "1212048604",
+        "title_cate": "베이커리",
+        "human_review": "2,116",
+        "blog_review": "260",
+        "addresses": "경기 군포시 산본천로 18 1층"
+    },
+    {
         "ranking": "16",
         "title": "스타벅스 금정AK점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
         "link": "1480602457",
         "title_cate": "카페",
-        "human_review": "2,953",
+        "human_review": "2,954",
         "blog_review": "221",
         "addresses": "경기 군포시 엘에스로 143"
     },
@@ -185,8 +185,8 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230612_28%2F1686573883955VLaIt_PNG%2FIMG_6542.png&type=f210_210_domesearch",
         "link": "1382578411",
         "title_cate": "카페,디저트",
-        "human_review": "585",
-        "blog_review": "124",
+        "human_review": "587",
+        "blog_review": "125",
         "addresses": "경기 군포시 산본로323번길 26-18 2층 202호"
     },
     {
@@ -195,7 +195,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231226_157%2F1703584904548wg3hL_JPEG%2FKakaoTalk_20231224_180537352.jpg&type=f210_210_domesearch",
         "link": "31841032",
         "title_cate": "카페",
-        "human_review": "1,908",
+        "human_review": "1,909",
         "blog_review": "245",
         "addresses": "경기 군포시 호수로 124-9"
     }

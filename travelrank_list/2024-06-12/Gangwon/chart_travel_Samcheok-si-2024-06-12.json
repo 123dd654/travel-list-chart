@@ -16,7 +16,7 @@
         "link": "1412275065",
         "title_cate": "케이블카",
         "human_review": "1,592",
-        "blog_review": "903",
+        "blog_review": "904",
         "addresses": "강원 삼척시 근덕면 장호항길 12-10"
     },
     {
@@ -35,7 +35,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240102_92%2F17041677461349n6BC_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6.jpg&type=f210_210_domesearch",
         "link": "11780890",
         "title_cate": "박물관",
-        "human_review": "2,227",
+        "human_review": "2,228",
         "blog_review": "641",
         "addresses": "강원 삼척시 신기면 강원남부로 3016"
     },
@@ -115,7 +115,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230628_82%2F1687930603742LOpbM_JPEG%2FKakaoTalk_20230628_143553571.jpg&type=f210_210_domesearch",
         "link": "1707892498",
         "title_cate": "카페,디저트",
-        "human_review": "2,949",
+        "human_review": "2,950",
         "blog_review": "791",
         "addresses": "강원 삼척시 새천년도로 517"
     },
@@ -125,7 +125,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230221_128%2F1676972804572q39IO_JPEG%2FSnapinsta.app_1080_293056371_379048324327183_1764893869718974940_n.jpg&type=f210_210_domesearch",
         "link": "1450940515",
         "title_cate": "카페,디저트",
-        "human_review": "2,103",
+        "human_review": "2,093",
         "blog_review": "661",
         "addresses": "강원 삼척시 테마타운길 69 1동 2층 201호"
     },
@@ -136,7 +136,7 @@
         "link": "13491452",
         "title_cate": "해수욕장,해변",
         "human_review": "52",
-        "blog_review": "715",
+        "blog_review": "716",
         "addresses": "강원 삼척시 근덕면"
     },
     {
@@ -146,7 +146,7 @@
         "link": "13491473",
         "title_cate": "항구",
         "human_review": "67",
-        "blog_review": "4,093",
+        "blog_review": "4,094",
         "addresses": "강원 삼척시 근덕면 장호리"
     },
     {
@@ -181,6 +181,16 @@
     },
     {
         "ranking": "19",
+        "title": "피크닉키키",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220704_35%2F1656891151267DoJKU_JPEG%2F1656890781722.jpg&type=f210_210_domesearch",
+        "link": "37839026",
+        "title_cate": "카페,디저트",
+        "human_review": "1,073",
+        "blog_review": "200",
+        "addresses": "강원 삼척시 테마타운길 53 1층 피크닉키키"
+    },
+    {
+        "ranking": "20",
         "title": "삼척모노레일",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200111_233%2F15787421165017BTkd_JPEG%2FsRc4bBeMNX7Bpz24HJiIFggd.jpg&type=f210_210_domesearch",
         "link": "15035572",
@@ -188,15 +198,5 @@
         "human_review": "2,283",
         "blog_review": "29",
         "addresses": "강원 삼척시 신기면 환선로 889"
-    },
-    {
-        "ranking": "20",
-        "title": "맹방비치캠핑장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191004_25%2F1570156451752xrQB8_PNG%2Fy91zZ0siWrDxkZYsgZJwEqmO.PNG.png&type=f210_210_domesearch",
-        "link": "1454265978",
-        "title_cate": "캠핑,야영장",
-        "human_review": "586",
-        "blog_review": "330",
-        "addresses": "강원 삼척시 근덕면 하맹방리 산1-7"
     }
 ]

@@ -71,16 +71,6 @@
     },
     {
         "ranking": "8",
-        "title": "그레이레이지",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240605_235%2F1717574959704Tvn0U_JPEG%2FKakaoTalk_20240605_165750973_01.jpg&type=f210_210_domesearch",
-        "link": "1867938527",
-        "title_cate": "카페,디저트",
-        "human_review": "144",
-        "blog_review": "212",
-        "addresses": "전남 무안군 삼향읍 대죽서로16번길 27 서광빌딩 2층"
-    },
-    {
-        "ranking": "9",
         "title": "롯데아울렛 남악점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220831_142%2F1661924893494xOEDK_JPEG%2F%25BE%25C6%25BF%25EF%25B7%25BF_%25B3%25B2%25BE%25C7%25C1%25A1.jpg&type=f210_210_domesearch",
         "link": "37798183",
@@ -88,6 +78,16 @@
         "human_review": "1,610",
         "blog_review": "444",
         "addresses": "전남 무안군 삼향읍 남악로162번길 80"
+    },
+    {
+        "ranking": "9",
+        "title": "그레이레이지",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240605_235%2F1717574959704Tvn0U_JPEG%2FKakaoTalk_20240605_165750973_01.jpg&type=f210_210_domesearch",
+        "link": "1867938527",
+        "title_cate": "카페,디저트",
+        "human_review": "144",
+        "blog_review": "212",
+        "addresses": "전남 무안군 삼향읍 대죽서로16번길 27 서광빌딩 2층"
     },
     {
         "ranking": "10",

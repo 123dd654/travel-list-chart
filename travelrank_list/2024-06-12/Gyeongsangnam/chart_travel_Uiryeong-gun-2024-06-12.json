@@ -161,16 +161,6 @@
     },
     {
         "ranking": "17",
-        "title": "이터니티",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230322_7%2F1679442374040RFjHz_JPEG%2F43C51334-0BEA-4273-9F7F-2DBC6811207A.jpeg&type=f210_210_domesearch",
-        "link": "1869393747",
-        "title_cate": "카페,디저트",
-        "human_review": "71",
-        "blog_review": "59",
-        "addresses": "경남 의령군 가례면 가례로 127"
-    },
-    {
-        "ranking": "18",
         "title": "야베스 팜 카페",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240314_119%2F1710402938017r90Me_JPEG%2F%25B8%25F1%25C0%25E5_%25C0%25FC%25B0%25E6%25BB%25E7%25C1%25F8_%25282%2529.jpg&type=f210_210_domesearch",
         "link": "1089015756",
@@ -178,6 +168,16 @@
         "human_review": "50",
         "blog_review": "16",
         "addresses": "경남 의령군 대의면 모의로5길 63-8 야베스 팜 카페"
+    },
+    {
+        "ranking": "18",
+        "title": "이터니티",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230322_7%2F1679442374040RFjHz_JPEG%2F43C51334-0BEA-4273-9F7F-2DBC6811207A.jpeg&type=f210_210_domesearch",
+        "link": "1869393747",
+        "title_cate": "카페,디저트",
+        "human_review": "71",
+        "blog_review": "59",
+        "addresses": "경남 의령군 가례면 가례로 127"
     },
     {
         "ranking": "19",
@@ -196,7 +196,7 @@
         "link": "12387668",
         "title_cate": "절,사찰",
         "human_review": "",
-        "blog_review": "595",
+        "blog_review": "594",
         "addresses": "경남 의령군 궁류면 청정로 1202-15"
     }
 ]

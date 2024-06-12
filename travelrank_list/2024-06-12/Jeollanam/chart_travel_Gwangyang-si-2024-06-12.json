@@ -101,16 +101,6 @@
     },
     {
         "ranking": "11",
-        "title": "호수도도글램핑장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230207_33%2F1675739253033c1RTO_JPEG%2FKakaoTalk_20230201_224850065.jpg&type=f210_210_domesearch",
-        "link": "1881349765",
-        "title_cate": "캠핑,야영장",
-        "human_review": "315",
-        "blog_review": "70",
-        "addresses": "전남 광양시 봉강면 성불로 144"
-    },
-    {
-        "ranking": "12",
         "title": "휴가저택",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210820_76%2F162946883024057tPP_JPEG%2FRXouMw3sfEv3BOB-ji3_BBZy.jpeg.jpg&type=f210_210_domesearch",
         "link": "1554728296",
@@ -120,7 +110,7 @@
         "addresses": "전남 광양시 용지1길 8"
     },
     {
-        "ranking": "13",
+        "ranking": "12",
         "title": "챔피언1250 LF스퀘어 광양점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20231020_280%2F1697776899085LXjrc_JPEG%2F5.JPG&type=f210_210_domesearch",
         "link": "1651431911",
@@ -128,6 +118,16 @@
         "human_review": "129",
         "blog_review": "54",
         "addresses": "전남 광양시 광양읍 순광로 466 LF스퀘어 광양점 가든동 3층"
+    },
+    {
+        "ranking": "13",
+        "title": "호수도도글램핑장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230207_33%2F1675739253033c1RTO_JPEG%2FKakaoTalk_20230201_224850065.jpg&type=f210_210_domesearch",
+        "link": "1881349765",
+        "title_cate": "캠핑,야영장",
+        "human_review": "315",
+        "blog_review": "70",
+        "addresses": "전남 광양시 봉강면 성불로 144"
     },
     {
         "ranking": "14",
@@ -195,7 +195,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
         "link": "59695169",
         "title_cate": "카페",
-        "human_review": "4,535",
+        "human_review": "4,536",
         "blog_review": "149",
         "addresses": "전남 광양시 중마중앙로 143"
     }

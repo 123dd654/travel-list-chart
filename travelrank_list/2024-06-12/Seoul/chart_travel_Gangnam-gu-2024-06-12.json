@@ -5,7 +5,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240318_165%2F1710746407715jKDsj_JPEG%2FCA_themedzones_04.jpg&type=f210_210_domesearch",
         "link": "11606845",
         "title_cate": "아쿠아리움",
-        "human_review": "43,644",
+        "human_review": "43,646",
         "blog_review": "6,027",
         "addresses": "서울 강남구 영동대로 513"
     },
@@ -16,7 +16,7 @@
         "link": "11664007",
         "title_cate": "절,사찰",
         "human_review": "",
-        "blog_review": "5,984",
+        "blog_review": "5,987",
         "addresses": "서울 강남구 봉은사로 531 봉은사"
     },
     {
@@ -25,7 +25,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221013_238%2F1665629671160QMvrk_JPEG%2F%25B5%25B5%25BB%25EA1.jpg&type=f210_210_domesearch",
         "link": "1967647240",
         "title_cate": "베이커리",
-        "human_review": "4,973",
+        "human_review": "4,974",
         "blog_review": "7,269",
         "addresses": "서울 강남구 언주로168길 33 1, 2층"
     },
@@ -35,8 +35,8 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190902_263%2F1567400150935lT0nN_JPEG%2FEkOiRmENoFIYHIiLxwWUyplL.jpg&type=f210_210_domesearch",
         "link": "1035412616",
         "title_cate": "미술관",
-        "human_review": "2,507",
-        "blog_review": "9,265",
+        "human_review": "2,506",
+        "blog_review": "9,266",
         "addresses": "서울 강남구 테헤란로 518 섬유센터빌딩 B1층"
     },
     {
@@ -46,7 +46,7 @@
         "link": "1529976454",
         "title_cate": "카페,디저트",
         "human_review": "1,962",
-        "blog_review": "4,919",
+        "blog_review": "4,918",
         "addresses": "서울 강남구 압구정로42길 42"
     },
     {
@@ -55,12 +55,22 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210913_234%2F1631502223110sYb86_JPEG%2F1._ST__SongEun_Building.jpg&type=f210_210_domesearch",
         "link": "13558974",
         "title_cate": "갤러리,화랑",
-        "human_review": "1,821",
+        "human_review": "1,822",
         "blog_review": "1,606",
         "addresses": "서울 강남구 도산대로 441"
     },
     {
         "ranking": "7",
+        "title": "정월",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190510_203%2F1557479953024HXRbs_JPEG%2FYgCUkP5yKk_14_nnud0w0WyY.jpg&type=f210_210_domesearch",
+        "link": "1478381424",
+        "title_cate": "카페,디저트",
+        "human_review": "2,096",
+        "blog_review": "1,656",
+        "addresses": "서울 강남구 강남대로102길 46 1층"
+    },
+    {
+        "ranking": "8",
         "title": "가로수길",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAzMjJfMjYy%2FMDAxNjc5NDk2NDcwODkz.MK_a1xIeAFjHQlzCJEIlz6iIHiX-aaA4U4TyW4WOKJ0g.37Szqtplj_JwloBub6kDzbdN2HV8s46AvKJCLY-O5acg.JPEG.hexeph%2F20230312_175833.jpg%234000x3000&type=f210_210_domesearch",
         "link": "13491811",
@@ -68,16 +78,6 @@
         "human_review": "5",
         "blog_review": "5,533",
         "addresses": "서울 강남구 신사동"
-    },
-    {
-        "ranking": "8",
-        "title": "정월",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190510_203%2F1557479953024HXRbs_JPEG%2FYgCUkP5yKk_14_nnud0w0WyY.jpg&type=f210_210_domesearch",
-        "link": "1478381424",
-        "title_cate": "카페,디저트",
-        "human_review": "2,095",
-        "blog_review": "1,656",
-        "addresses": "서울 강남구 강남대로102길 46 1층"
     },
     {
         "ranking": "9",
@@ -106,7 +106,7 @@
         "link": "1614953667",
         "title_cate": "카페,디저트",
         "human_review": "1,086",
-        "blog_review": "2,312",
+        "blog_review": "2,311",
         "addresses": "서울 강남구 압구정로56길 16"
     },
     {
@@ -115,8 +115,8 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240611_248%2F1718071110519BNmFO_JPEG%2FFAC44B49-BCE6-465B-B851-07FFF0F7DF91.jpeg&type=f210_210_domesearch",
         "link": "1102745487",
         "title_cate": "카페,디저트",
-        "human_review": "2,043",
-        "blog_review": "896",
+        "human_review": "2,045",
+        "blog_review": "897",
         "addresses": "서울 강남구 강남대로112길 12 1층 다크그림"
     },
     {
@@ -125,7 +125,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_189%2F1717914038325sKIQu_PNG%2Fhehh.PNG&type=f210_210_domesearch",
         "link": "34016603",
         "title_cate": "카페",
-        "human_review": "2,877",
+        "human_review": "2,879",
         "blog_review": "3,059",
         "addresses": "서울 강남구 강남대로102길 34"
     },
@@ -135,7 +135,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201019_153%2F16030758148810rXLn_JPEG%2F3KVpsSEwcVnB9C6lhKOhyCCd.jpg&type=f210_210_domesearch",
         "link": "1880997916",
         "title_cate": "베이글",
-        "human_review": "2,183",
+        "human_review": "2,185",
         "blog_review": "1,025",
         "addresses": "서울 강남구 압구정로48길 28 건물전체"
     },
@@ -155,7 +155,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221216_243%2F1671183507111QlLlg_JPEG%2FKakaoTalk_20221216_182511120.jpg&type=f210_210_domesearch",
         "link": "1541598703",
         "title_cate": "카페,디저트",
-        "human_review": "1,307",
+        "human_review": "1,308",
         "blog_review": "1,008",
         "addresses": "서울 강남구 봉은사로4길 31"
     },
@@ -176,7 +176,7 @@
         "link": "34745051",
         "title_cate": "체험,홍보관",
         "human_review": "102",
-        "blog_review": "1,538",
+        "blog_review": "1,540",
         "addresses": "서울 강남구 언주로 738"
     },
     {
@@ -196,7 +196,7 @@
         "link": "33972716",
         "title_cate": "카페",
         "human_review": "2,483",
-        "blog_review": "2,392",
+        "blog_review": "2,393",
         "addresses": "서울 강남구 논현로159길 49"
     }
 ]

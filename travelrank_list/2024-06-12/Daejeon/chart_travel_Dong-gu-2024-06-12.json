@@ -5,8 +5,8 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220527_270%2F1653615133175GGOBk_JPEG%2F5.%25B4%25EB%25C0%25FC%25BF%25AA_%25B0%25A3%25C6%25C7_%25C7%25D5%25BC%25BA_%25BB%25E7%25C0%25CC%25C1%25EE%25C1%25B6%25C0%25FD.jpg&type=f210_210_domesearch",
         "link": "36731468",
         "title_cate": "베이커리",
-        "human_review": "30,530",
-        "blog_review": "4,316",
+        "human_review": "30,536",
+        "blog_review": "4,320",
         "addresses": "대전 동구 중앙로 215 대전역사 2F"
     },
     {
@@ -26,7 +26,7 @@
         "link": "413568990",
         "title_cate": "휴양림,산림욕장",
         "human_review": "62",
-        "blog_review": "1,598",
+        "blog_review": "1,597",
         "addresses": "대전 동구 산내로 714"
     },
     {
@@ -36,7 +36,7 @@
         "link": "1607359830",
         "title_cate": "브런치카페",
         "human_review": "1,048",
-        "blog_review": "1,079",
+        "blog_review": "1,080",
         "addresses": "대전 동구 회남로275번길 123"
     },
     {
@@ -51,23 +51,23 @@
     },
     {
         "ranking": "6",
-        "title": "문글램핑",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220920_252%2F16636484838325nKKB_JPEG%2FKakaoTalk_20220918_191459337_04.jpg&type=f210_210_domesearch",
-        "link": "1026525649",
-        "title_cate": "캠핑,야영장",
-        "human_review": "902",
-        "blog_review": "276",
-        "addresses": "대전 동구 산내로 237"
-    },
-    {
-        "ranking": "7",
         "title": "미도리컬러",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230619_107%2F1687180587068gmL0i_JPEG%2FScreenshot_20230618_220512_Instagram.jpg&type=f210_210_domesearch",
         "link": "1144589562",
         "title_cate": "카페,디저트",
-        "human_review": "3,091",
+        "human_review": "3,093",
         "blog_review": "705",
         "addresses": "대전 동구 수향길 53 전체"
+    },
+    {
+        "ranking": "7",
+        "title": "문글램핑",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220920_252%2F16636484838325nKKB_JPEG%2FKakaoTalk_20220918_191459337_04.jpg&type=f210_210_domesearch",
+        "link": "1026525649",
+        "title_cate": "캠핑,야영장",
+        "human_review": "904",
+        "blog_review": "277",
+        "addresses": "대전 동구 산내로 237"
     },
     {
         "ranking": "8",
@@ -75,7 +75,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240111_24%2F1704938995511qOdX3_JPEG%2FIMG_5564.jpeg&type=f210_210_domesearch",
         "link": "1303922193",
         "title_cate": "카페,디저트",
-        "human_review": "2,188",
+        "human_review": "2,191",
         "blog_review": "894",
         "addresses": "대전 동구 수향길 97 챔프스페이스 커피로스터즈"
     },
@@ -86,7 +86,7 @@
         "link": "1831290419",
         "title_cate": "카페,디저트",
         "human_review": "2,146",
-        "blog_review": "684",
+        "blog_review": "685",
         "addresses": "대전 동구 동부로33번길 46-58 하늘만큼 카페"
     },
     {
@@ -96,7 +96,7 @@
         "link": "1710005494",
         "title_cate": "카페,디저트",
         "human_review": "1,389",
-        "blog_review": "968",
+        "blog_review": "971",
         "addresses": "대전 동구 태전로 22 1층 정동문화사"
     },
     {
@@ -105,7 +105,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230304_55%2F16779381013017e3de_JPEG%2FKakaoTalk_20220510_212127721.jpg&type=f210_210_domesearch",
         "link": "1172986285",
         "title_cate": "캠핑,야영장",
-        "human_review": "1,254",
+        "human_review": "1,255",
         "blog_review": "405",
         "addresses": "대전 동구 산내로 710 캠프향기"
     },
@@ -146,7 +146,7 @@
         "link": "16257422",
         "title_cate": "전망대",
         "human_review": "20",
-        "blog_review": "550",
+        "blog_review": "551",
         "addresses": "대전 동구 낭월동 산2-1"
     },
     {

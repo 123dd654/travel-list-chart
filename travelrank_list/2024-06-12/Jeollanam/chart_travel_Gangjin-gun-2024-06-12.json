@@ -45,7 +45,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191114_300%2F1573719468553Gg55s_JPEG%2FyCv7qrEzlVOPDC40m8DKrDtn.jpg&type=f210_210_domesearch",
         "link": "588085971",
         "title_cate": "짚라인",
-        "human_review": "487",
+        "human_review": "488",
         "blog_review": "113",
         "addresses": "전남 강진군 도암면 가우도길 49-9"
     },
@@ -71,16 +71,6 @@
     },
     {
         "ranking": "8",
-        "title": "한국민화뮤지엄",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160617_48%2F14661332812368GhYo_JPEG%2F176567524459722_0.jpeg&type=f210_210_domesearch",
-        "link": "36470967",
-        "title_cate": "박물관",
-        "human_review": "323",
-        "blog_review": "259",
-        "addresses": "전남 강진군 대구면 청자촌길 61-5"
-    },
-    {
-        "ranking": "9",
         "title": "가우도",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200225_253%2F1582629725480dFEWU_JPEG%2FR7Xpz81bP1-HrchhOUpT03Ci.jpg&type=f210_210_domesearch",
         "link": "1712989974",
@@ -90,7 +80,7 @@
         "addresses": "전남 강진군 도암면 신기리 산31-2"
     },
     {
-        "ranking": "10",
+        "ranking": "9",
         "title": "백운차실",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230611_82%2F1686468703978cjnx9_PNG%2F%25B9%25E9%25BF%25EE%25BD%25C7_%25BF%25F9%25C3%25E2%25BB%25EC_%25BA%25E4.png&type=f210_210_domesearch",
         "link": "1185245399",
@@ -98,6 +88,16 @@
         "human_review": "449",
         "blog_review": "196",
         "addresses": "전남 강진군 성전면 백운로 107 성전면 백운로 107"
+    },
+    {
+        "ranking": "10",
+        "title": "한국민화뮤지엄",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160617_48%2F14661332812368GhYo_JPEG%2F176567524459722_0.jpeg&type=f210_210_domesearch",
+        "link": "36470967",
+        "title_cate": "박물관",
+        "human_review": "323",
+        "blog_review": "259",
+        "addresses": "전남 강진군 대구면 청자촌길 61-5"
     },
     {
         "ranking": "11",

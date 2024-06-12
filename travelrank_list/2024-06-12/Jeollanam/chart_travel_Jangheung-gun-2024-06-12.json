@@ -86,7 +86,7 @@
         "link": "1680934512",
         "title_cate": "캠핑,야영장",
         "human_review": "55",
-        "blog_review": "17",
+        "blog_review": "18",
         "addresses": "전남 장흥군 대덕읍 신흥1길 5-55"
     },
     {
@@ -141,16 +141,6 @@
     },
     {
         "ranking": "15",
-        "title": "천관산",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_217%2F1440992282161nHTq7_JPEG%2F11491532_0.jpg&type=f210_210_domesearch",
-        "link": "11491532",
-        "title_cate": "산",
-        "human_review": "17",
-        "blog_review": "745",
-        "addresses": "전남 장흥군 관산읍"
-    },
-    {
-        "ranking": "16",
         "title": "장흥빵명장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_28%2F1701759061605wx4O8_JPEG%2FKakaoTalk_20231205_155025221.jpg&type=f210_210_domesearch",
         "link": "1089724071",
@@ -158,6 +148,16 @@
         "human_review": "122",
         "blog_review": "62",
         "addresses": "전남 장흥군 장흥읍 장흥로 85"
+    },
+    {
+        "ranking": "16",
+        "title": "천관산",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_217%2F1440992282161nHTq7_JPEG%2F11491532_0.jpg&type=f210_210_domesearch",
+        "link": "11491532",
+        "title_cate": "산",
+        "human_review": "17",
+        "blog_review": "745",
+        "addresses": "전남 장흥군 관산읍"
     },
     {
         "ranking": "17",
@@ -176,7 +176,7 @@
         "link": "1226146580",
         "title_cate": "베이커리",
         "human_review": "33",
-        "blog_review": "29",
+        "blog_review": "28",
         "addresses": "전남 장흥군 장흥읍 의향길 11"
     },
     {
@@ -196,7 +196,7 @@
         "link": "1009702829",
         "title_cate": "카페,디저트",
         "human_review": "35",
-        "blog_review": "38",
+        "blog_review": "37",
         "addresses": "전남 장흥군 장평면 곰치로 423 1층"
     }
 ]

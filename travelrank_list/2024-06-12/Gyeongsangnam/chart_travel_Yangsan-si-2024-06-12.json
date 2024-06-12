@@ -16,7 +16,7 @@
         "link": "1607511654",
         "title_cate": "영화관",
         "human_review": "2,931",
-        "blog_review": "1,007",
+        "blog_review": "1,006",
         "addresses": "경남 양산시 덕계북길 35 영화공장"
     },
     {
@@ -35,8 +35,8 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_202%2F1701779957692t2saB_JPEG%2F%25BE%25E7%25BB%25EA%25C5%25AC%25BD%25BA%25B8%25B6%25BD%25BA%25BB%25E7%25C1%25F8.jpg&type=f210_210_domesearch",
         "link": "1796076423",
         "title_cate": "카페",
-        "human_review": "4,998",
-        "blog_review": "566",
+        "human_review": "5,000",
+        "blog_review": "567",
         "addresses": "경남 양산시 물금읍 동중3길 21"
     },
     {
@@ -56,7 +56,7 @@
         "link": "1215121775",
         "title_cate": "카페,디저트",
         "human_review": "1,944",
-        "blog_review": "896",
+        "blog_review": "897",
         "addresses": "경남 양산시 동면 여락송정로 270-2 느티나무의사랑카페"
     },
     {
@@ -126,21 +126,11 @@
         "link": "11663955",
         "title_cate": "절,사찰",
         "human_review": "105",
-        "blog_review": "8,197",
+        "blog_review": "8,196",
         "addresses": "경남 양산시 하북면 통도사로 108"
     },
     {
         "ranking": "14",
-        "title": "양산시립박물관",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzExMzBfMjUy%2FMDAxNTEyMDQxNjc4NTE2.GK2G5I41vKuPRXwdd-4uUjVk8xQJTKOs5lrJlnHDhFsg._-90ZWpnGBf0knE1dGCePeO2vcWrGph3rRqDyY2eR8Ug.JPEG.gsndfamily%2F001.JPG%23740x493&type=f210_210_domesearch",
-        "link": "19908119",
-        "title_cate": "박물관",
-        "human_review": "176",
-        "blog_review": "482",
-        "addresses": "경남 양산시 북정로 78"
-    },
-    {
-        "ranking": "15",
         "title": "홍차왕자 본점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_229%2F1708920134026qWuu3_JPEG%2F240215_%25C8%25AB%25C2%25F7%25BF%25D5%25C0%25DA_4.jpg&type=f210_210_domesearch",
         "link": "1760008639",
@@ -148,6 +138,16 @@
         "human_review": "1,002",
         "blog_review": "625",
         "addresses": "경남 양산시 신명3길 144 홍차왕자 본점"
+    },
+    {
+        "ranking": "15",
+        "title": "양산시립박물관",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzExMzBfMjUy%2FMDAxNTEyMDQxNjc4NTE2.GK2G5I41vKuPRXwdd-4uUjVk8xQJTKOs5lrJlnHDhFsg._-90ZWpnGBf0knE1dGCePeO2vcWrGph3rRqDyY2eR8Ug.JPEG.gsndfamily%2F001.JPG%23740x493&type=f210_210_domesearch",
+        "link": "19908119",
+        "title_cate": "박물관",
+        "human_review": "176",
+        "blog_review": "482",
+        "addresses": "경남 양산시 북정로 78"
     },
     {
         "ranking": "16",

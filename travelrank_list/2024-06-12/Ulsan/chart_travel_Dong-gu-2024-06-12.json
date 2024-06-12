@@ -6,7 +6,7 @@
         "link": "12079981",
         "title_cate": "도시,테마공원",
         "human_review": "1,285",
-        "blog_review": "7,045",
+        "blog_review": "7,046",
         "addresses": "울산 동구 일산동 산907"
     },
     {
@@ -115,12 +115,22 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_243%2F1708580166200AroT8_JPEG%2FKakaoTalk_20240222_143523810_04.jpg&type=f210_210_domesearch",
         "link": "1956011145",
         "title_cate": "카페",
-        "human_review": "3,177",
+        "human_review": "3,178",
         "blog_review": "714",
         "addresses": "울산 동구 물목길 20"
     },
     {
         "ranking": "13",
+        "title": "스타벅스 울산일산비치DT점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
+        "link": "1294732447",
+        "title_cate": "카페",
+        "human_review": "1,943",
+        "blog_review": "160",
+        "addresses": "울산 동구 일산진11길 95"
+    },
+    {
+        "ranking": "14",
         "title": "요트탈래울산",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230901_212%2F1693555411850rck5j_JPEG%2FKakaoTalk_20220421_110109762_02.jpg&type=f210_210_domesearch",
         "link": "1302848131",
@@ -130,7 +140,7 @@
         "addresses": "울산 동구 일산동 915-41"
     },
     {
-        "ranking": "14",
+        "ranking": "15",
         "title": "봄여름가을",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180927_6%2F1538055640938oSMMP_JPEG%2FA1wiC7Ig7Hh7lE9zClfU4Vpl.jpg&type=f210_210_domesearch",
         "link": "1092827165",
@@ -138,16 +148,6 @@
         "human_review": "1,235",
         "blog_review": "673",
         "addresses": "울산 동구 성끝4길 24"
-    },
-    {
-        "ranking": "15",
-        "title": "스타벅스 울산일산비치DT점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
-        "link": "1294732447",
-        "title_cate": "카페",
-        "human_review": "1,942",
-        "blog_review": "160",
-        "addresses": "울산 동구 일산진11길 95"
     },
     {
         "ranking": "16",
@@ -166,7 +166,7 @@
         "link": "13491605",
         "title_cate": "해수욕장,해변",
         "human_review": "368",
-        "blog_review": "2,067",
+        "blog_review": "2,068",
         "addresses": "울산 동구 일산동"
     },
     {
@@ -196,7 +196,7 @@
         "link": "1619752451",
         "title_cate": "카페,디저트",
         "human_review": "83",
-        "blog_review": "147",
+        "blog_review": "148",
         "addresses": "울산 동구 동해안로 659 1층 샬로우커피 주전 몽돌해변점"
     }
 ]

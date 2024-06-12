@@ -6,11 +6,21 @@
         "link": "13302613",
         "title_cate": "국가유산",
         "human_review": "180",
-        "blog_review": "6,200",
+        "blog_review": "6,201",
         "addresses": "충남 부여군 부여읍 동남리"
     },
     {
         "ranking": "2",
+        "title": "롯데리조트부여 아쿠아가든",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180920_71%2F1537404243704M2bny_JPEG%2F%25BE%25C6%25C4%25ED%25BE%25C6%25B0%25A1%25B5%25E7_2.jpg&type=f210_210_domesearch",
+        "link": "30846991",
+        "title_cate": "워터파크",
+        "human_review": "2,541",
+        "blog_review": "438",
+        "addresses": "충남 부여군 규암면 백제문로 400"
+    },
+    {
+        "ranking": "3",
         "title": "백제문화단지",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180729_32%2F1532831301146gqllO_JPEG%2F9cE7ptaNThcE_eixp5f0Ndia.jpg&type=f210_210_domesearch",
         "link": "12019039",
@@ -18,16 +28,6 @@
         "human_review": "4,520",
         "blog_review": "2,694",
         "addresses": "충남 부여군 규암면 백제문로 455 백제문화단지"
-    },
-    {
-        "ranking": "3",
-        "title": "롯데리조트부여 아쿠아가든",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180920_71%2F1537404243704M2bny_JPEG%2F%25BE%25C6%25C4%25ED%25BE%25C6%25B0%25A1%25B5%25E7_2.jpg&type=f210_210_domesearch",
-        "link": "30846991",
-        "title_cate": "워터파크",
-        "human_review": "2,540",
-        "blog_review": "438",
-        "addresses": "충남 부여군 규암면 백제문로 400"
     },
     {
         "ranking": "4",
@@ -85,7 +85,7 @@
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231027_33%2F1698383416866Rj0hP_JPEG%2FIMG_0108.jpeg&type=f210_210_domesearch",
         "link": "36473527",
         "title_cate": "카페,디저트",
-        "human_review": "837",
+        "human_review": "838",
         "blog_review": "358",
         "addresses": "충남 부여군 부여읍 서동로 56 at267"
     },
@@ -96,7 +96,7 @@
         "link": "1368737167",
         "title_cate": "카페,디저트",
         "human_review": "839",
-        "blog_review": "474",
+        "blog_review": "475",
         "addresses": "충남 부여군 부여읍 삼충로 99"
     },
     {

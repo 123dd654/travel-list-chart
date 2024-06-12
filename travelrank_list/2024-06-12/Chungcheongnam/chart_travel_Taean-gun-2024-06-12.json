@@ -56,7 +56,7 @@
         "link": "1197841705",
         "title_cate": "카페,디저트",
         "human_review": "2,014",
-        "blog_review": "1,629",
+        "blog_review": "1,630",
         "addresses": "충남 태안군 소원면 파도길 61-9"
     },
     {
@@ -86,7 +86,7 @@
         "link": "13491088",
         "title_cate": "해수욕장,해변",
         "human_review": "57",
-        "blog_review": "1,423",
+        "blog_review": "1,424",
         "addresses": "충남 태안군 남면 원청리"
     },
     {
@@ -96,7 +96,7 @@
         "link": "13490966",
         "title_cate": "해수욕장,해변",
         "human_review": "168",
-        "blog_review": "3,324",
+        "blog_review": "3,325",
         "addresses": "충남 태안군 소원면 모항리"
     },
     {
@@ -116,7 +116,7 @@
         "link": "1023747375",
         "title_cate": "카페,디저트",
         "human_review": "1,584",
-        "blog_review": "381",
+        "blog_review": "382",
         "addresses": "충남 태안군 소원면 천리포1길 143-25 1층 천만금카페"
     },
     {
@@ -126,7 +126,7 @@
         "link": "13491387",
         "title_cate": "해수욕장,해변",
         "human_review": "401",
-        "blog_review": "5,929",
+        "blog_review": "5,928",
         "addresses": "충남 태안군 안면읍 승언리"
     },
     {
@@ -141,26 +141,16 @@
     },
     {
         "ranking": "15",
-        "title": "마검포힐링캠핑장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220731_273%2F1659260146661JbGRJ_JPEG%2FScreenshot_2022-07-31_at_18.28.11.JPG&type=f210_210_domesearch",
-        "link": "32389081",
-        "title_cate": "캠핑,야영장",
-        "human_review": "3,023",
-        "blog_review": "600",
-        "addresses": "충남 태안군 남면 마검포길 313-30"
-    },
-    {
-        "ranking": "16",
         "title": "바람아래관광농원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190617_178%2F1560747427433JL1Mw_JPEG%2Fdaum_net_20190527_123900.jpg&type=f210_210_domesearch",
         "link": "13083086",
         "title_cate": "관광농원,팜스테이",
         "human_review": "1,017",
-        "blog_review": "343",
+        "blog_review": "344",
         "addresses": "충남 태안군 고남면 대야로 13-6"
     },
     {
-        "ranking": "17",
+        "ranking": "16",
         "title": "몽산포제빵소",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211229_33%2F1640769157192mstGE_JPEG%2F944E4C88-6048-4ED4-9731-EF19F4CB4066.jpeg&type=f210_210_domesearch",
         "link": "1297290808",
@@ -168,6 +158,16 @@
         "human_review": "3,085",
         "blog_review": "915",
         "addresses": "충남 태안군 남면 우운길 56-19"
+    },
+    {
+        "ranking": "17",
+        "title": "마검포힐링캠핑장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220731_273%2F1659260146661JbGRJ_JPEG%2FScreenshot_2022-07-31_at_18.28.11.JPG&type=f210_210_domesearch",
+        "link": "32389081",
+        "title_cate": "캠핑,야영장",
+        "human_review": "3,022",
+        "blog_review": "600",
+        "addresses": "충남 태안군 남면 마검포길 313-30"
     },
     {
         "ranking": "18",
@@ -196,7 +196,7 @@
         "link": "1892275883",
         "title_cate": "베이커리",
         "human_review": "867",
-        "blog_review": "196",
+        "blog_review": "198",
         "addresses": "충남 태안군 남면 천수만로 343"
     }
 ]
