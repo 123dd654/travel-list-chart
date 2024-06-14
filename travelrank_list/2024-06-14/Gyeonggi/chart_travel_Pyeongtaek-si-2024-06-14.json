@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "메인스트리트",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210415_219%2F16184671022321bTmK_JPEG%2FQjatU3cnuuLOuJYrXLKf2qWs.jpg&type=f210_210_domesearch",
+        "link": "1375115897",
+        "title_cate": "카페,디저트",
+        "human_review": "8,492",
+        "blog_review": "2,974",
+        "addresses": "경기 평택시 포승읍 포승산단로13번길 37-21"
+    },
+    {
+        "ranking": "2",
+        "title": "엉클브룩스쥬 평택",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20220816_224%2F1660627375024eqy4O_JPEG%2Fbanner.jpg&type=f210_210_domesearch",
+        "link": "1693660282",
+        "title_cate": "동물원",
+        "human_review": "3,890",
+        "blog_review": "858",
+        "addresses": "경기 평택시 비전5로 10 센트럴돔 3층 엉클브룩스쥬"
+    },
+    {
+        "ranking": "3",
+        "title": "진위천유원지",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180523_56%2F1527055362669B0Gyy_JPEG%2FRvJDHrVOrL3tnrdXzdynwd_2.jpg&type=f210_210_domesearch",
+        "link": "20264683",
+        "title_cate": "유원지",
+        "human_review": "1,375",
+        "blog_review": "797",
+        "addresses": "경기 평택시 진위면 진위서로 264-15"
+    },
+    {
+        "ranking": "4",
+        "title": "터프이너프 로스터스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200720_134%2F1595197918805kawbb_JPEG%2FikYsL52UjSBzcLFCWsxSHQF3.jpg&type=f210_210_domesearch",
+        "link": "37489082",
+        "title_cate": "카페,디저트",
+        "human_review": "1,623",
+        "blog_review": "1,261",
+        "addresses": "경기 평택시 포승읍 포승향남로 11 단독건물 터프이너프 카페"
+    },
+    {
+        "ranking": "5",
+        "title": "프리퍼 카페",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240530_287%2F1716997787270wpY8d_JPEG%2FIMG_0449.jpeg&type=f210_210_domesearch",
+        "link": "1763689434",
+        "title_cate": "카페,디저트",
+        "human_review": "2,943",
+        "blog_review": "1,343",
+        "addresses": "경기 평택시 지산로140번길 243 프리퍼"
+    },
+    {
+        "ranking": "6",
+        "title": "평택시농업생태원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA1MDVfMTIy%2FMDAxNTU3MDU4MTc0Nzk4.lOD1MUyGy12XQDNXvH3KuPVj6qivXnXZOMAd3yQ6baIg.-DR2Ro3ZxmNyRnNWi3fHGrz_96bugtyXQxee1nlEcqEg.JPEG.rutin1006%2FDSC04989.jpg%235456x3632&type=f210_210_domesearch",
+        "link": "1187511176",
+        "title_cate": "관람,체험",
+        "human_review": "6",
+        "blog_review": "1,478",
+        "addresses": "경기 평택시 오성면 청오로 33-34"
+    },
+    {
+        "ranking": "7",
+        "title": "원포레스트",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240605_238%2F1717555523835NbMLO_JPEG%2FF952015E-7A43-40C8-9697-DD2503221E1D.jpeg&type=f210_210_domesearch",
+        "link": "1011274757",
+        "title_cate": "카페,디저트",
+        "human_review": "751",
+        "blog_review": "294",
+        "addresses": "경기 평택시 지산로 276-7"
+    },
+    {
+        "ranking": "8",
+        "title": "카페 아카이브",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191209_233%2F1575818692824O0nb4_JPEG%2FXXSJKZpT5DoKaJ4ACh5qE4u9.jpg&type=f210_210_domesearch",
+        "link": "1485356113",
+        "title_cate": "카페,디저트",
+        "human_review": "5,278",
+        "blog_review": "1,106",
+        "addresses": "경기 평택시 오성면 강변로 468"
+    },
+    {
+        "ranking": "9",
+        "title": "어디카페",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230401_177%2F16802770685845v1g4_JPEG%2FScreenshot_20230401-003325_Gallery.jpg&type=f210_210_domesearch",
+        "link": "1742479433",
+        "title_cate": "브런치카페",
+        "human_review": "1,814",
+        "blog_review": "911",
+        "addresses": "경기 평택시 오성면 오성서로 291"
+    },
+    {
+        "ranking": "10",
+        "title": "터프이너프 로스터스 VER2",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230518_164%2F1684405204399XolU3_JPEG%2FKakaoTalk_20230518_191918484_14.jpg&type=f210_210_domesearch",
+        "link": "1661602777",
+        "title_cate": "카페,디저트",
+        "human_review": "559",
+        "blog_review": "702",
+        "addresses": "경기 평택시 평택3로 80"
+    },
+    {
+        "ranking": "11",
+        "title": "west157",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220624_188%2F1656038905952NEfIi_JPEG%2FEA4F4368-B007-4F6C-9945-610574163132.jpeg&type=f210_210_domesearch",
+        "link": "1113638020",
+        "title_cate": "카페,디저트",
+        "human_review": "1,623",
+        "blog_review": "919",
+        "addresses": "경기 평택시 현덕면 서동대로 157 west157"
+    },
+    {
+        "ranking": "12",
+        "title": "소풍동물원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240406_175%2F1712385402874VrPXq_PNG%2FIMG_8584.png&type=f210_210_domesearch",
+        "link": "36192987",
+        "title_cate": "관람,체험",
+        "human_review": "238",
+        "blog_review": "181",
+        "addresses": "경기 평택시 진위면 하북3길 25-59"
+    },
+    {
+        "ranking": "13",
+        "title": "호커스포커스로스터스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230916_35%2F1694791940855SWb2f_JPEG%2FKakaoTalk_20230916_003138149_02.jpg&type=f210_210_domesearch",
+        "link": "1343030808",
+        "title_cate": "카페,디저트",
+        "human_review": "986",
+        "blog_review": "823",
+        "addresses": "경기 평택시 장안웃길 12 호커스포커스 로스터스"
+    },
+    {
+        "ranking": "14",
+        "title": "트리하우스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230520_159%2F16845616093039cHjt_JPEG%2F20DDE7BD-2EB7-44B7-8AF3-968B9833705D.jpeg&type=f210_210_domesearch",
+        "link": "1524660090",
+        "title_cate": "관광농원,팜스테이",
+        "human_review": "1",
+        "blog_review": "182",
+        "addresses": "경기 평택시 진위면 삼봉로 442-15"
+    },
+    {
+        "ranking": "15",
+        "title": "시모네",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230216_64%2F16765211136053FOX3_JPEG%2FKakaoTalk_20230216_131707641_06.jpg&type=f210_210_domesearch",
+        "link": "1930405145",
+        "title_cate": "카페,디저트",
+        "human_review": "1,470",
+        "blog_review": "925",
+        "addresses": "경기 평택시 현덕면 장수길 31 A, B동 1층"
+    },
+    {
+        "ranking": "16",
+        "title": "내리문화공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA2MjhfMjk0%2FMDAxNTYxNjcyNzAxMTg5.4Ls0yPzSU6N7JJwigBtcgfkT4Sy08ZY17IyWVbuSHFwg.H-iQLkb4MpZZeqru90RkFaYmLHP--MWX04Zw79FiR8wg.JPEG.rainoflove1%2F20190529_182219.jpg%23886x498&type=f210_210_domesearch",
+        "link": "1470489868",
+        "title_cate": "근린공원",
+        "human_review": "26",
+        "blog_review": "719",
+        "addresses": "경기 평택시 팽성읍 내리 260"
+    },
+    {
+        "ranking": "17",
+        "title": "카페 리벌스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230418_132%2F1681797502259jdAuU_JPEG%2F0DC0F046-5DA5-484A-BCC1-E8D49F1B2BFB.jpeg&type=f210_210_domesearch",
+        "link": "1312707678",
+        "title_cate": "카페,디저트",
+        "human_review": "470",
+        "blog_review": "513",
+        "addresses": "경기 평택시 고덕여염4로 41 1층"
+    },
+    {
+        "ranking": "18",
+        "title": "cafe길섶",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230114_104%2F1673685425560nd03o_JPEG%2FKakaoTalk_20221117_163413235_11.jpg&type=f210_210_domesearch",
+        "link": "243524270",
+        "title_cate": "베이커리",
+        "human_review": "653",
+        "blog_review": "371",
+        "addresses": "경기 평택시 도일로 246 송화빌딩 1층"
+    },
+    {
+        "ranking": "19",
+        "title": "배다리근린공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODEwMjFfNjYg%2FMDAxNTQwMTEzMDE3NzQ4.xQlfVtrD1rZykXnnyynTrEd_jWWoLym9JGK-ym33QJ8g.12zx3tXzA0YA-jNNg2ojU40Q0VLrCaEsC5KZJSVibXYg.JPEG.sudal1228%2F20181021_173120.jpg%23900x675&type=f210_210_domesearch",
+        "link": "1110791354",
+        "title_cate": "근린공원",
+        "human_review": "41",
+        "blog_review": "601",
+        "addresses": "경기 평택시 죽백6로 20"
+    },
+    {
+        "ranking": "20",
+        "title": "노디너리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220903_215%2F1662180421716b4dsE_JPEG%2F71C9F7D5-2BA2-45DC-A982-1AFB57EACD39.jpeg&type=f210_210_domesearch",
+        "link": "1507514841",
+        "title_cate": "베이커리",
+        "human_review": "515",
+        "blog_review": "251",
+        "addresses": "경기 평택시 비전9길 71 1층 노디너리"
+    }
+]
