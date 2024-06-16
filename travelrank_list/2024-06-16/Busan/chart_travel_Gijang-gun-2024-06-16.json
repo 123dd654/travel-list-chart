@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "국립부산과학관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220606_217%2F1654483235381DDh8T_JPEG%2Fsciport1.jpg&type=f210_210_domesearch",
+        "link": "36311000",
+        "title_cate": "과학관",
+        "human_review": "2,999",
+        "blog_review": "3,323",
+        "addresses": "부산 기장군 기장읍 동부산관광6로 59 국립부산과학관"
+    },
+    {
+        "ranking": "2",
+        "title": "칠암사계",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220104_209%2F16412869886359KN5f_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AFIMGL1775-0.jpg&type=f210_210_domesearch",
+        "link": "1101934691",
+        "title_cate": "카페",
+        "human_review": "15,239",
+        "blog_review": "3,914",
+        "addresses": "부산 기장군 일광읍 칠암1길 7-10"
+    },
+    {
+        "ranking": "3",
+        "title": "보몽드 기장본점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240110_12%2F1704863715433haIWp_JPEG%2FDSC_2734.jpg&type=f210_210_domesearch",
+        "link": "1722866524",
+        "title_cate": "카페,디저트",
+        "human_review": "3,461",
+        "blog_review": "8,809",
+        "addresses": "부산 기장군 장안읍 구기길 19-7 보몽드"
+    },
+    {
+        "ranking": "4",
+        "title": "롯데월드 어드벤처 부산",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240530_218%2F1717058229926HOJeG_PNG%2F%25A1%25DA%25BE%25EE%25B5%25E5%25BA%25A5%25C3%25B3_%25BA%25CE%25BB%25EA%2529_%252724_%25BF%25A9%25B8%25A7_%25C5%25B0%25BA%25F1%25C1%25D6%25BE%25F3_%25C3%25D6%25C1%25BE_%25C1%25F6%25B5%25B5%25BF%25EB.png&type=f210_210_domesearch",
+        "link": "1984256106",
+        "title_cate": "테마파크",
+        "human_review": "6,804",
+        "blog_review": "5,791",
+        "addresses": "부산 기장군 기장읍 동부산관광로 42"
+    },
+    {
+        "ranking": "5",
+        "title": "해동용궁사",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190927_59%2F1569562115725u6bpj_JPEG%2FzneFazTohGqA-utNQUEPllla.jpg&type=f210_210_domesearch",
+        "link": "11737443",
+        "title_cate": "절,사찰",
+        "human_review": "",
+        "blog_review": "13,220",
+        "addresses": "부산 기장군 기장읍 용궁길 86 해동용궁사"
+    },
+    {
+        "ranking": "6",
+        "title": "웨이브온 커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190722_119%2F1563796821623Lw2Ab_JPEG%2F35_H443GCvUfiYfMROeq8sjV.jpg&type=f210_210_domesearch",
+        "link": "859310081",
+        "title_cate": "카페,디저트",
+        "human_review": "13,034",
+        "blog_review": "6,488",
+        "addresses": "부산 기장군 장안읍 해맞이로 286"
+    },
+    {
+        "ranking": "7",
+        "title": "스카이라인루지 부산",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220322_21%2F1647932153432N7p7G_JPEG%2FSkyline_Luge_Busan_3_Min.jpg&type=f210_210_domesearch",
+        "link": "1927608921",
+        "title_cate": "루지",
+        "human_review": "3,369",
+        "blog_review": "1,711",
+        "addresses": "부산 기장군 기장읍 기장해안로 205"
+    },
+    {
+        "ranking": "8",
+        "title": "덕미 기장점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200516_226%2F1589565395238Mif7k_JPEG%2F6uaSmRAnEMPGIYxZNQly2PTO.jpg&type=f210_210_domesearch",
+        "link": "1606767373",
+        "title_cate": "카페,디저트",
+        "human_review": "3,338",
+        "blog_review": "1,954",
+        "addresses": "부산 기장군 기장읍 동암해안길 77 1층 덕미 기장점"
+    },
+    {
+        "ranking": "9",
+        "title": "헤이든",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_252%2F1703663015003YXt0w_JPEG%2FKakaoTalk_20231227_163847854_01.jpg&type=f210_210_domesearch",
+        "link": "1780456812",
+        "title_cate": "카페,디저트",
+        "human_review": "6,374",
+        "blog_review": "2,988",
+        "addresses": "부산 기장군 일광읍 문오성길 22"
+    },
+    {
+        "ranking": "10",
+        "title": "리투커피바",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240406_265%2F1712383805262noQdd_JPEG%2FIMG_9735.jpeg&type=f210_210_domesearch",
+        "link": "1085806263",
+        "title_cate": "카페",
+        "human_review": "2,741",
+        "blog_review": "504",
+        "addresses": "부산 기장군 일광읍 문오성길 396"
+    },
+    {
+        "ranking": "11",
+        "title": "공극샌드커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200324_28%2F1585017638112zBE0e_JPEG%2FdtUl9TyLC6uwYnuPC-mjNopz.jpg&type=f210_210_domesearch",
+        "link": "1134928543",
+        "title_cate": "카페,디저트",
+        "human_review": "3,737",
+        "blog_review": "2,128",
+        "addresses": "부산 기장군 기장읍 공수해안길 41"
+    },
+    {
+        "ranking": "12",
+        "title": "스타벅스 기장임랑원점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
+        "link": "1067625237",
+        "title_cate": "카페",
+        "human_review": "529",
+        "blog_review": "1,009",
+        "addresses": "부산 기장군 장안읍 임랑해안길 10"
+    },
+    {
+        "ranking": "13",
+        "title": "디원카페",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220331_56%2F164869902296813RRD_JPEG%2FKakaoTalk_20210803_111244763_24.jpg&type=f210_210_domesearch",
+        "link": "1682471943",
+        "title_cate": "카페",
+        "human_review": "2,396",
+        "blog_review": "2,859",
+        "addresses": "부산 기장군 일광읍 일광로 326"
+    },
+    {
+        "ranking": "14",
+        "title": "아홉산숲",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_238%2F1441080182132oG4Mp_JPEG%2F166358528163089_0.jpeg&type=f210_210_domesearch",
+        "link": "36513659",
+        "title_cate": "식물원,수목원",
+        "human_review": "5,987",
+        "blog_review": "3,281",
+        "addresses": "부산 기장군 철마면 웅천리 520-10"
+    },
+    {
+        "ranking": "15",
+        "title": "하녹",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211111_165%2F1636625943156XrNa4_JPEG%2F1636537420722.jpg&type=f210_210_domesearch",
+        "link": "1712635191",
+        "title_cate": "카페,디저트",
+        "human_review": "1,381",
+        "blog_review": "1,526",
+        "addresses": "부산 기장군 기장읍 내리길 146-5 하녹카페"
+    },
+    {
+        "ranking": "16",
+        "title": "일광당",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190326_1%2F1553593304761WY5sz_JPEG%2FKq5xzQeGvYeh__BkseL2o6Uo.jpg&type=f210_210_domesearch",
+        "link": "20594713",
+        "title_cate": "찐빵",
+        "human_review": "3,653",
+        "blog_review": "1,608",
+        "addresses": "부산 기장군 일광읍 일광로 125-1 은혜사진실"
+    },
+    {
+        "ranking": "17",
+        "title": "죽성드림세트장",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAyMDNfMTE3%2FMDAxNTE3NjE3MTgwODU4.3YIIInqtOjHtFXJ-sOrhAkxLMNMtCaCdUMNgwQRAeEQg.usWzRkNm5U5hcReSnFFMyI7x64pshnpYIJu7ctQsybEg.JPEG.firstso%2FDSC_0014.JPG%23550x365&type=f210_210_domesearch",
+        "link": "33500362",
+        "title_cate": "촬영장소",
+        "human_review": "55",
+        "blog_review": "3,774",
+        "addresses": "부산 기장군 기장읍 죽성리 134-7"
+    },
+    {
+        "ranking": "18",
+        "title": "데일리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_96%2F1703723734856pkUR9_JPEG%2FF73ECAD2-F89F-4179-BB0F-09866695D313.jpeg&type=f210_210_domesearch",
+        "link": "1832424128",
+        "title_cate": "브런치카페",
+        "human_review": "1,049",
+        "blog_review": "1,121",
+        "addresses": "부산 기장군 일광읍 이동1길 39 데일리"
+    },
+    {
+        "ranking": "19",
+        "title": "피크스퀘어",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220906_47%2F166244561783326JRH_JPEG%2F1662437562470-0.jpg&type=f210_210_domesearch",
+        "link": "1117214176",
+        "title_cate": "카페,디저트",
+        "human_review": "1,628",
+        "blog_review": "2,440",
+        "addresses": "부산 기장군 기장읍 기장해안로 864 피크스퀘어"
+    },
+    {
+        "ranking": "20",
+        "title": "카페베이스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220517_220%2F1652718626194dh5X8_JPEG%2F17A26073-7DE4-461E-B9D3-879E3C4BD095.jpeg&type=f210_210_domesearch",
+        "link": "1529633583",
+        "title_cate": "카페,디저트",
+        "human_review": "1,091",
+        "blog_review": "1,724",
+        "addresses": "부산 기장군 기장읍 연화1길 73"
+    }
+]
