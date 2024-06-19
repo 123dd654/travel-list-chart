@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "서울숲",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200728_296%2F1595899415265D5A3d_JPEG%2F%25B0%25A1%25C1%25B7%25B8%25B6%25B4%25E71.jpg&type=f210_210_domesearch",
+        "link": "11636039",
+        "title_cate": "숲,숲길",
+        "human_review": "629",
+        "blog_review": "27,386",
+        "addresses": "서울 성동구 뚝섬로 273"
+    },
+    {
+        "ranking": "2",
+        "title": "자연도소금빵in 성수",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230821_10%2F1692624841117gCCt1_JPEG%2FKakaoTalk_20230821_223246131.jpg&type=f210_210_domesearch",
+        "link": "1022429915",
+        "title_cate": "베이커리",
+        "human_review": "1,831",
+        "blog_review": "2,239",
+        "addresses": "서울 성동구 연무장길 56-1 1층"
+    },
+    {
+        "ranking": "3",
+        "title": "봉땅 서울숲점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230504_160%2F1683132838911iYqph_JPEG%2FIMG_6860.jpeg&type=f210_210_domesearch",
+        "link": "1700801654",
+        "title_cate": "베이커리",
+        "human_review": "721",
+        "blog_review": "1,379",
+        "addresses": "서울 성동구 서울숲6길 16-1 1층 봉땅"
+    },
+    {
+        "ranking": "4",
+        "title": "응봉산",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA5MDhfNDIg%2FMDAxNTA0ODMzNTY4NzEw.KcMg428HB0MTaCLNiBcocQvN2Q76lckve6XwBOwuOs4g.4bYl_4e4nizAwSbar4166FIpRxRfjH8T318gGdb3KQsg.JPEG.cds1985%2FDSCF6848.JPG%23550x367&type=f210_210_domesearch",
+        "link": "11491502",
+        "title_cate": "산",
+        "human_review": "58",
+        "blog_review": "3,237",
+        "addresses": "서울 성동구 금호동4가 1540"
+    },
+    {
+        "ranking": "5",
+        "title": "브레디포스트 성수점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230427_222%2F1682583137425nH2I3_PNG%2F%25C7%25C1%25B7%25B9%25C3%25BF_%25BD%25E6%25B3%25D7%25C0%25CF.png&type=f210_210_domesearch",
+        "link": "1020816080",
+        "title_cate": "카페,디저트",
+        "human_review": "3,476",
+        "blog_review": "5,125",
+        "addresses": "서울 성동구 상원1길 5 1층"
+    },
+    {
+        "ranking": "6",
+        "title": "디뮤지엄",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230317_295%2F1679017845698df8Gc_JPEG%2F%25B5%25F0%25B9%25C2%25C1%25F6%25BE%25F6_%25BF%25DC%25B0%25FC2_%25281%2529.jpeg&type=f210_210_domesearch",
+        "link": "36992369",
+        "title_cate": "미술관",
+        "human_review": "3,132",
+        "blog_review": "9,858",
+        "addresses": "서울 성동구 왕십리로 83-21 디뮤지엄"
+    },
+    {
+        "ranking": "7",
+        "title": "그라운드시소 성수",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220805_124%2F1659658554938mj9vz_JPEG%2F1.jpg&type=f210_210_domesearch",
+        "link": "1567169009",
+        "title_cate": "복합문화공간",
+        "human_review": "1,033",
+        "blog_review": "8,310",
+        "addresses": "서울 성동구 아차산로17길 49 생각공장 데시앙플렉스 지하 1층"
+    },
+    {
+        "ranking": "8",
+        "title": "어라운드데이",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220110_135%2F1641824404033Ydn2G_JPEG%2F92E9426E-ED16-414F-897A-74BFAAC95501.jpeg&type=f210_210_domesearch",
+        "link": "1344027015",
+        "title_cate": "카페,디저트",
+        "human_review": "752",
+        "blog_review": "1,677",
+        "addresses": "서울 성동구 서울숲2길 24-1 어라운드데이"
+    },
+    {
+        "ranking": "9",
+        "title": "카페 할아버지공장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230628_122%2F168793900516032uET_JPEG%2FIMG_0678.jpg&type=f210_210_domesearch",
+        "link": "1425989301",
+        "title_cate": "카페,디저트",
+        "human_review": "5,207",
+        "blog_review": "2,413",
+        "addresses": "서울 성동구 성수이로7가길 9"
+    },
+    {
+        "ranking": "10",
+        "title": "성수동카페거리",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA2MDhfMTgx%2FMDAxNzE3ODUwNTkwMzkz.tIs8towPEodKvrMwqO3YjIVPbJztuWyRArpf1kiN0Rcg.cRnky1NJWCuPDUebdgBV7YnPw1b5GqsbhvPG4UyEa9gg.JPEG%2F20240608_150040.jpg%233000x2250&type=f210_210_domesearch",
+        "link": "1207780049",
+        "title_cate": "거리,골목",
+        "human_review": "1",
+        "blog_review": "580",
+        "addresses": "서울 성동구 성수동2가"
+    },
+    {
+        "ranking": "11",
+        "title": "코끼리베이글 성수",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMjdfMjkg%2FMDAxNzA2MzIzNDk4OTY0.L5WDZ4psQS6wDi6LOC4DSZLHxGXHGv-KdBk7bYRAxfwg.YP9HEzC5vSiuKe3GfIPa5Sqqg6YLpCnWwuKVB52iXZcg.JPEG.djawl896%2F20240107%25A3%25DF141355.jpg%23900x675&type=f210_210_domesearch",
+        "link": "1543901744",
+        "title_cate": "베이커리",
+        "human_review": "4,123",
+        "blog_review": "2,409",
+        "addresses": "서울 성동구 성수이로26길 17 (성수동2가) 1층"
+    },
+    {
+        "ranking": "12",
+        "title": "섬세이 테라리움",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_246%2F1702953510919SbId5_JPEG%2F%25C5%25D7%25B6%25F3%25B8%25AE%25BF%25F2_%25C7%25F6%25BC%25F6%25B8%25B7_RGB%2528%25C1%25DF%25C8%25AD%25C1%25FA%2529.jpg&type=f210_210_domesearch",
+        "link": "1763631009",
+        "title_cate": "전시관",
+        "human_review": "3,137",
+        "blog_review": "1,365",
+        "addresses": "서울 성동구 서울숲2길 44-1 지하1층 섬세이 테라리움"
+    },
+    {
+        "ranking": "13",
+        "title": "서울앵무새 성수점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210406_199%2F1617678551577SJ7tT_JPEG%2FikVKGhWZ6X3_u60YEP1nMpHY.jpg&type=f210_210_domesearch",
+        "link": "1240372795",
+        "title_cate": "카페,디저트",
+        "human_review": "6,335",
+        "blog_review": "5,854",
+        "addresses": "서울 성동구 서울숲9길 3 B1~2F"
+    },
+    {
+        "ranking": "14",
+        "title": "라프레플루트",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_223%2F1712280901528Qt3Rb_JPEG%2FIMG_6883.jpeg&type=f210_210_domesearch",
+        "link": "1966521856",
+        "title_cate": "카페,디저트",
+        "human_review": "849",
+        "blog_review": "747",
+        "addresses": "서울 성동구 서울숲2길 8-8 2층"
+    },
+    {
+        "ranking": "15",
+        "title": "니커버커베이글 성수점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_49%2F1708569467795boiqg_JPEG%2FIMG_2342.jpeg&type=f210_210_domesearch",
+        "link": "1468687611",
+        "title_cate": "카페,디저트",
+        "human_review": "727",
+        "blog_review": "1,055",
+        "addresses": "서울 성동구 뚝섬로13길 36 1층, 3층"
+    },
+    {
+        "ranking": "16",
+        "title": "베통 성수 플래그십",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231128_295%2F1701142372507SDziS_JPEG%2F1.jpg&type=f210_210_domesearch",
+        "link": "365858525",
+        "title_cate": "카페,디저트",
+        "human_review": "3,960",
+        "blog_review": "2,367",
+        "addresses": "서울 성동구 연무장7가길 8 베통 성수"
+    },
+    {
+        "ranking": "17",
+        "title": "네모네",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240612_113%2F17181181642308WptP_JPEG%2F51419023-A6A5-4C65-9BC2-273017ED2648.jpeg&type=f210_210_domesearch",
+        "link": "1529218208",
+        "title_cate": "카페,디저트",
+        "human_review": "1,603",
+        "blog_review": "2,396",
+        "addresses": "서울 성동구 상원2길 6 1층, B1층"
+    },
+    {
+        "ranking": "18",
+        "title": "스트로베리32 성수점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220523_119%2F1653272171046fdIP0_JPEG%2FKakaoTalk_20220523_111221786_04.jpg&type=f210_210_domesearch",
+        "link": "1128626529",
+        "title_cate": "베이커리",
+        "human_review": "2,934",
+        "blog_review": "626",
+        "addresses": "서울 성동구 왕십리로10길 9-31 3층"
+    },
+    {
+        "ranking": "19",
+        "title": "쎈느Scene",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221114_47%2F1668404667321rlk6m_JPEG%2F%25B4%25EB%25C1%25F6_74x-100.jpg&type=f210_210_domesearch",
+        "link": "1030871168",
+        "title_cate": "카페,디저트",
+        "human_review": "2,067",
+        "blog_review": "2,407",
+        "addresses": "서울 성동구 연무장5길 20 1F Scène"
+    },
+    {
+        "ranking": "20",
+        "title": "천상가옥",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240420_105%2F1713542959856yB86U_JPEG%2F286ED81E-A127-49A2-AFB0-02243A3CC1E8.jpeg&type=f210_210_domesearch",
+        "link": "1071830988",
+        "title_cate": "카페,디저트",
+        "human_review": "2,190",
+        "blog_review": "1,142",
+        "addresses": "서울 성동구 성수이로14길 14 A동 3층"
+    }
+]
