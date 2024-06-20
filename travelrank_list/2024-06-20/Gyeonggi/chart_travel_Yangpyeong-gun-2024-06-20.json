@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "세미원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220830_49%2F1661822677885AenKg_JPEG%2F%25BC%25F6%25B7%25C3.JPG&type=f210_210_domesearch",
+        "link": "13162124",
+        "title_cate": "식물원,수목원",
+        "human_review": "6,847",
+        "blog_review": "6,118",
+        "addresses": "경기 양평군 양서면 양수로 93"
+    },
+    {
+        "ranking": "2",
+        "title": "구벼울",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230218_288%2F1676681264037AuP2j_JPEG%2FKakaoTalk_20230218_094438228.jpg&type=f210_210_domesearch",
+        "link": "1781659302",
+        "title_cate": "카페,디저트",
+        "human_review": "13,922",
+        "blog_review": "3,327",
+        "addresses": "경기 양평군 옥천면 남한강변길 123-19"
+    },
+    {
+        "ranking": "3",
+        "title": "더그림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230808_163%2F1691470333570xHgut_JPEG%2F%25BE%25E7%25C6%25F2%25B4%25F5%25B1%25D7%25B8%25B2_%25C1%25A4%25BF%25F8%25BB%25E7%25C1%25F8_-_1.jpg&type=f210_210_domesearch",
+        "link": "34301448",
+        "title_cate": "식물원,수목원",
+        "human_review": "9,957",
+        "blog_review": "2,635",
+        "addresses": "경기 양평군 옥천면 사나사길 175"
+    },
+    {
+        "ranking": "4",
+        "title": "용문산관광단지",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA5MjhfNDAg%2FMDAxNjk1OTEyMTk0NzY3.suDQaDndV292b5I6Ujmqr-Od_0MTdVmyJQPB__Yx_T0g.OmNQ-AiUpqvyXw4KarNmYJGXl9UUAB2dnGt9ZhQNLdkg.JPEG.power20400%2F20230924_160628.jpg%234000x2252&type=f210_210_domesearch",
+        "link": "19166423",
+        "title_cate": "관람,체험",
+        "human_review": "81",
+        "blog_review": "942",
+        "addresses": "경기 양평군 용문면 신점리 515-2"
+    },
+    {
+        "ranking": "5",
+        "title": "구둔역 폐역",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210702_300%2F1625204920026dYXRM_JPEG%2FzxHtUXuoR9sXvOw8xOcUvxCN.jpg&type=f210_210_domesearch",
+        "link": "31058766",
+        "title_cate": "문화,유적",
+        "human_review": "22",
+        "blog_review": "1,212",
+        "addresses": "경기 양평군 지평면 일신리 1336-9"
+    },
+    {
+        "ranking": "6",
+        "title": "하우스 베이커리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181104_138%2F1541298745385tcsyz_JPEG%2FoLJrOmesRm46px3bV5nbPCUd.JPG.jpg&type=f210_210_domesearch",
+        "link": "1133417608",
+        "title_cate": "베이커리",
+        "human_review": "8,220",
+        "blog_review": "3,567",
+        "addresses": "경기 양평군 서종면 북한강로 684 하우스베이커리"
+    },
+    {
+        "ranking": "7",
+        "title": "소풍",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240425_26%2F1714031675595jv3dR_JPEG%2FIMG_8742.jpeg&type=f210_210_domesearch",
+        "link": "1183958368",
+        "title_cate": "카페,디저트",
+        "human_review": "1,376",
+        "blog_review": "1,783",
+        "addresses": "경기 양평군 양서면 골용진길 21 소풍"
+    },
+    {
+        "ranking": "8",
+        "title": "문릿",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220827_28%2F1661592165031trbB9_JPEG%2FD71F2591-9035-4D8E-9FEC-E5728A9330F8.jpeg&type=f210_210_domesearch",
+        "link": "1432487254",
+        "title_cate": "카페",
+        "human_review": "1,634",
+        "blog_review": "2,481",
+        "addresses": "경기 양평군 용문면 덕촌길 109 2층"
+    },
+    {
+        "ranking": "9",
+        "title": "중미산자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_292%2F1440992281567I7oKX_JPEG%2F11491526_0.jpg&type=f210_210_domesearch",
+        "link": "11491526",
+        "title_cate": "휴양림,산림욕장",
+        "human_review": "335",
+        "blog_review": "748",
+        "addresses": "경기 양평군 옥천면 신복리 산201-2"
+    },
+    {
+        "ranking": "10",
+        "title": "두물머리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_119%2F1441045595325QjsPf_JPEG%2F13491272_0.jpg&type=f210_210_domesearch",
+        "link": "13491272",
+        "title_cate": "자연명소",
+        "human_review": "1,036",
+        "blog_review": "17,427",
+        "addresses": "경기 양평군 양서면 양수리"
+    },
+    {
+        "ranking": "11",
+        "title": "스타벅스 더양평DT점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
+        "link": "1062059468",
+        "title_cate": "카페",
+        "human_review": "9,455",
+        "blog_review": "3,459",
+        "addresses": "경기 양평군 양평읍 양근로 76"
+    },
+    {
+        "ranking": "12",
+        "title": "내추럴가든529",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170628_280%2F1498623182772O0rin_JPEG%2F186577556443822_0.jpeg&type=f210_210_domesearch",
+        "link": "54317944",
+        "title_cate": "식물원,수목원",
+        "human_review": "3,357",
+        "blog_review": "1,096",
+        "addresses": "경기 양평군 서종면 내수입길 108-8"
+    },
+    {
+        "ranking": "13",
+        "title": "양평 백운봉 자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_91%2F1441000961067d6IzT_JPEG%2F13165373_0.jpg&type=f210_210_domesearch",
+        "link": "13165373",
+        "title_cate": "휴양림,산림욕장",
+        "human_review": "57",
+        "blog_review": "484",
+        "addresses": "경기 양평군 양평읍 백안리 산70"
+    },
+    {
+        "ranking": "14",
+        "title": "양평양떼목장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211104_86%2F1636002824133tj0M2_PNG%2FJ68IDZ-Gbtgmus_xmyvwDHB5.png&type=f210_210_domesearch",
+        "link": "32358846",
+        "title_cate": "관람,체험",
+        "human_review": "6,438",
+        "blog_review": "1,511",
+        "addresses": "경기 양평군 용문면 은고갯길 112"
+    },
+    {
+        "ranking": "15",
+        "title": "양평군립미술관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240512_192%2F1715491634488dYVfv_JPEG%2F4.JPG&type=f210_210_domesearch",
+        "link": "19454932",
+        "title_cate": "미술관",
+        "human_review": "195",
+        "blog_review": "975",
+        "addresses": "경기 양평군 양평읍 문화복지길 2 양평군립미술관"
+    },
+    {
+        "ranking": "16",
+        "title": "산음자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_4%2F1440992206966QHPUq_JPEG%2F11491024_0.jpg&type=f210_210_domesearch",
+        "link": "11491024",
+        "title_cate": "휴양림,산림욕장",
+        "human_review": "454",
+        "blog_review": "1,024",
+        "addresses": "경기 양평군 단월면 고북길 347"
+    },
+    {
+        "ranking": "17",
+        "title": "중원계곡",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_93%2F1441045591981J8Nti_JPEG%2F13491252_0.jpg&type=f210_210_domesearch",
+        "link": "13491252",
+        "title_cate": "계곡",
+        "human_review": "34",
+        "blog_review": "466",
+        "addresses": "경기 양평군 용문면 중원리"
+    },
+    {
+        "ranking": "18",
+        "title": "강이다",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230718_166%2F16896706188139YvSw_JPEG%2FIMG_4570.jpeg&type=f210_210_domesearch",
+        "link": "1202586537",
+        "title_cate": "카페,디저트",
+        "human_review": "1,534",
+        "blog_review": "836",
+        "addresses": "경기 양평군 양서면 북한강로81번길 23 카페 강이다"
+    },
+    {
+        "ranking": "19",
+        "title": "중미산천문대",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190920_290%2F1568964506363dQMYb_JPEG%2Fz9DogiB9zRHtwSDrD0HfzHlw.jpg&type=f210_210_domesearch",
+        "link": "11574040",
+        "title_cate": "천문대",
+        "human_review": "2,281",
+        "blog_review": "421",
+        "addresses": "경기 양평군 옥천면 중미산로 1268 중미산천문대"
+    },
+    {
+        "ranking": "20",
+        "title": "양평곤충박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210121_279%2F1611192099774HjR5U_JPEG%2FH3CsKbTvIZrheXCHh8cRgAQb.jpg&type=f210_210_domesearch",
+        "link": "19994606",
+        "title_cate": "박물관",
+        "human_review": "411",
+        "blog_review": "670",
+        "addresses": "경기 양평군 옥천면 경강로 1496 양평환경사업소"
+    }
+]
