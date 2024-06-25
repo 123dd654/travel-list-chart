@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "대구아쿠아리움",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230918_222%2F1695020698031LzrvP_JPEG%2FS2_00953_e-min.jpg&type=f210_210_domesearch",
+        "link": "68685079",
+        "title_cate": "아쿠아리움",
+        "human_review": "14,698",
+        "blog_review": "3,631",
+        "addresses": "대구 동구 동부로 149 신세계백화점 대구점 9층"
+    },
+    {
+        "ranking": "2",
+        "title": "베르겐 에스프레소바",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230519_215%2F1684479662597mNmDL_JPEG%2FKakaoTalk_Photo_2023-05-19-16-00-22_003.jpeg&type=f210_210_domesearch",
+        "link": "1657913972",
+        "title_cate": "카페",
+        "human_review": "1,684",
+        "blog_review": "1,480",
+        "addresses": "대구 동구 파계로138길 64 베르겐 에스프레소바"
+    },
+    {
+        "ranking": "3",
+        "title": "토이빌리지 대구혁신점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191108_232%2F1573189669002zkA78_JPEG%2F%25BD%25E6%25B3%25D7%25C0%25CF%2528%25C1%25A4%25BB%25E8%25B0%25A2%25C7%25FC%2529.jpg&type=f210_210_domesearch",
+        "link": "1113272402",
+        "title_cate": "동물원",
+        "human_review": "2,896",
+        "blog_review": "389",
+        "addresses": "대구 동구 혁신대로 468"
+    },
+    {
+        "ranking": "4",
+        "title": "커들포드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230513_110%2F1683940991417aEvAF_JPEG%2FIMG_5588.jpeg&type=f210_210_domesearch",
+        "link": "1641911157",
+        "title_cate": "카페,디저트",
+        "human_review": "2,329",
+        "blog_review": "1,073",
+        "addresses": "대구 동구 팔공로 1334 커들포드"
+    },
+    {
+        "ranking": "5",
+        "title": "신세계백화점 대구점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200619_73%2F159257848381543UdH_JPEG%2FKC9_YGA_WZbM4-86DJlMafeG.jpeg.jpg&type=f210_210_domesearch",
+        "link": "38003935",
+        "title_cate": "백화점",
+        "human_review": "11,486",
+        "blog_review": "11,499",
+        "addresses": "대구 동구 동부로 149"
+    },
+    {
+        "ranking": "6",
+        "title": "팔공산케이블카",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240311_142%2F1710144838225bhRDA_JPEG%2Fbanner_x.jpg&type=f210_210_domesearch",
+        "link": "11873909",
+        "title_cate": "케이블카",
+        "human_review": "6,699",
+        "blog_review": "2,477",
+        "addresses": "대구 동구 팔공산로185길 51 팔공산케이블카"
+    },
+    {
+        "ranking": "7",
+        "title": "옻골마을",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAyMjBfMTgg%2FMDAxNTE5MTE2NDI3NjQ2.T9dA4QpVGPnBAVFDYPi9pKXQP4tVhV1_jVWUKTCOIlwg.7rIHseFPUjfTJlViMbBFS4lg2OkuRymBieGHC0GA8OUg.JPEG.lcw1376%2F20180215_145842.jpg%23740x416&type=f210_210_domesearch",
+        "link": "20061817",
+        "title_cate": "체험마을",
+        "human_review": "234",
+        "blog_review": "658",
+        "addresses": "대구 동구 둔산동"
+    },
+    {
+        "ranking": "8",
+        "title": "슬로우벗베럴 대구점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230315_209%2F1678888663366mg8I8_JPEG%2FKakaoTalk_20230315_210703656_11_%25281%2529.jpg&type=f210_210_domesearch",
+        "link": "1905610966",
+        "title_cate": "카페,디저트",
+        "human_review": "4,412",
+        "blog_review": "965",
+        "addresses": "대구 동구 신평로 113"
+    },
+    {
+        "ranking": "9",
+        "title": "동촌유원지",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA3MzBfOSAg%2FMDAxNjkwNzA0OTU3NzIy.Nc3iGgCstjA3EeelULNIAAk3ryQU-u6oqBqd9Mbmc6wg.-5ZUYW70-l5tY0x-TCQZjDi7oQhikWYLVF51nYeZUf8g.JPEG.dkzdmom%2FSE-f39e868a-66fd-40d5-8167-69680bc2ffca.jpg%232784x1848&type=f210_210_domesearch",
+        "link": "13473883",
+        "title_cate": "유원지",
+        "human_review": "222",
+        "blog_review": "2,342",
+        "addresses": "대구 동구 효목동 1314"
+    },
+    {
+        "ranking": "10",
+        "title": "연화",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210422_214%2F1619060939092uq5Np_JPEG%2Fha1oJwCB6esza6cOMrEinLgA.jpeg.jpg&type=f210_210_domesearch",
+        "link": "1411632081",
+        "title_cate": "카페,디저트",
+        "human_review": "446",
+        "blog_review": "1,065",
+        "addresses": "대구 동구 동부로34길 3 연화"
+    },
+    {
+        "ranking": "11",
+        "title": "팔공산 동화사 템플스테이",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160817_32%2Fwldms1109_1471404146925bnlIM_JPEG%2FattachImage_3331596690.jpeg%23320x240&type=f210_210_domesearch",
+        "link": "13576404",
+        "title_cate": "템플스테이",
+        "human_review": "6",
+        "blog_review": "157",
+        "addresses": "대구 동구 동화사길 1"
+    },
+    {
+        "ranking": "12",
+        "title": "봉무공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_273%2F1441024023071B7gi3_JPEG%2F116278613351919_0.jpg&type=f210_210_domesearch",
+        "link": "13343446",
+        "title_cate": "도시,테마공원",
+        "human_review": "75",
+        "blog_review": "931",
+        "addresses": "대구 동구 봉무동 산135-2"
+    },
+    {
+        "ranking": "13",
+        "title": "레이틀리92 대구혁신도시본점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211029_136%2F1635519493573q7ayX_JPEG%2Fh4A8UgzqHgGdwx48_z-DMevu.jpg&type=f210_210_domesearch",
+        "link": "1321329017",
+        "title_cate": "카페,디저트",
+        "human_review": "1,825",
+        "blog_review": "1,362",
+        "addresses": "대구 동구 초례로 6 레이틀리92"
+    },
+    {
+        "ranking": "14",
+        "title": "애리스커피스탠드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200801_246%2F1596236224761mW8Gq_JPEG%2FxkS7vmR8dGoFa-GbzKZcTENA.jpeg.jpg&type=f210_210_domesearch",
+        "link": "1778363634",
+        "title_cate": "카페,디저트",
+        "human_review": "537",
+        "blog_review": "967",
+        "addresses": "대구 동구 동부로32길 2"
+    },
+    {
+        "ranking": "15",
+        "title": "국립대구기상과학관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240302_76%2F1709364115021GWns8_JPEG%2F20230328_100305_1_%25B3%25D7%25C0%25CC%25B9%25F6.jpg&type=f210_210_domesearch",
+        "link": "1631655580",
+        "title_cate": "과학관",
+        "human_review": "162",
+        "blog_review": "664",
+        "addresses": "대구 동구 효동로2길 10 국립대구기상과학관"
+    },
+    {
+        "ranking": "16",
+        "title": "프랭크프랭크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210206_34%2F1612574453839FFB8A_JPEG%2FQxTmw2AZhw9t-y5dtr4jkI9z.jpeg.jpg&type=f210_210_domesearch",
+        "link": "1388331944",
+        "title_cate": "카페,디저트",
+        "human_review": "797",
+        "blog_review": "950",
+        "addresses": "대구 동구 동부로32길 20-1"
+    },
+    {
+        "ranking": "17",
+        "title": "바운스 트램폴린파크 동대구신세계백화점센터",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240513_288%2F1715587659056zeLRf_JPEG%2FIMG_6869.JPG&type=f210_210_domesearch",
+        "link": "892204469",
+        "title_cate": "스포츠,오락",
+        "human_review": "2,125",
+        "blog_review": "521",
+        "addresses": "대구 동구 효신로 88"
+    },
+    {
+        "ranking": "18",
+        "title": "헤이마",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221012_293%2F1665548572242Dzrru_JPEG%2F%25C7%25EC%25C0%25CC%25B8%25B6_%25BB%25E7%25C1%25F82.jpeg&type=f210_210_domesearch",
+        "link": "1792725205",
+        "title_cate": "카페",
+        "human_review": "1,954",
+        "blog_review": "1,721",
+        "addresses": "대구 동구 파계로 583"
+    },
+    {
+        "ranking": "19",
+        "title": "인스퍼레이션디 동촌유원지",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240527_163%2F1716814401086e5JnY_JPEG%2F1000005669.jpg&type=f210_210_domesearch",
+        "link": "1276138588",
+        "title_cate": "카페,디저트",
+        "human_review": "1,425",
+        "blog_review": "837",
+        "addresses": "대구 동구 효동로6길 57 인스퍼레이션디 동촌유원지"
+    },
+    {
+        "ranking": "20",
+        "title": "레이지모닝 동대구점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200422_43%2F1587536266074d3BBg_JPEG%2FzQ5TYpDbCrZty4_IG1J8v-S9.jpeg.jpg&type=f210_210_domesearch",
+        "link": "1556904025",
+        "title_cate": "베이커리",
+        "human_review": "1,110",
+        "blog_review": "632",
+        "addresses": "대구 동구 동부로30길 60-1 레이지모닝"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "스파크랜드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230113_218%2F1673588451924ewl7S_JPEG%2F%25BD%25E6%25B3%25D7%25C0%25CF02.jpg&type=f210_210_domesearch",
+        "link": "1689741560",
+        "title_cate": "테마파크",
+        "human_review": "8,141",
+        "blog_review": "2,091",
+        "addresses": "대구 중구 동성로6길 61 레드존 7~9층"
+    },
+    {
+        "ranking": "2",
+        "title": "달성공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_32%2F14410072096801w1rq_JPEG%2F116171617562818_0.jpg&type=f210_210_domesearch",
+        "link": "11622401",
+        "title_cate": "동물원",
+        "human_review": "205",
+        "blog_review": "2,038",
+        "addresses": "대구 중구 달성공원로 35 달성공원"
+    },
+    {
+        "ranking": "3",
+        "title": "스테드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230620_122%2F1687270771859oCicm_JPEG%2FKakaoTalk_20220726_021048002_01.jpg&type=f210_210_domesearch",
+        "link": "1155458571",
+        "title_cate": "카페,디저트",
+        "human_review": "953",
+        "blog_review": "1,006",
+        "addresses": "대구 중구 중앙대로77길 14 sted"
+    },
+    {
+        "ranking": "4",
+        "title": "카페 루시드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230923_119%2F1695479513812wUXAs_JPEG%2Ftemp_file.jpg&type=f210_210_domesearch",
+        "link": "20601185",
+        "title_cate": "카페",
+        "human_review": "1,618",
+        "blog_review": "1,588",
+        "addresses": "대구 중구 동성로4길 94"
+    },
+    {
+        "ranking": "5",
+        "title": "이씨씨커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210629_213%2F1624923691518EPzwR_JPEG%2FEjc9bumUF_H_jj1ZUUgzr41a.jpeg.jpg&type=f210_210_domesearch",
+        "link": "1387663727",
+        "title_cate": "카페,디저트",
+        "human_review": "1,394",
+        "blog_review": "1,422",
+        "addresses": "대구 중구 종로 72"
+    },
+    {
+        "ranking": "6",
+        "title": "마마다이닝",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230227_27%2F1677484703928Rnasb_PNG%2F%25C7%25AA%25B5%25F9_%25BA%25F9%25BC%25F6_1_%25BA%25B8%25C1%25A4.png&type=f210_210_domesearch",
+        "link": "1696700298",
+        "title_cate": "카페,디저트",
+        "human_review": "4,904",
+        "blog_review": "2,806",
+        "addresses": "대구 중구 동성로2길 21-5 마마다이닝"
+    },
+    {
+        "ranking": "7",
+        "title": "인더매스 삼덕",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_217%2F1712973139251eSNgG_JPEG%2F%25C0%25CE%25B4%25F5%25B8%25C5%25BB%25EF%25B4%25F6_%25C5%25A9%25B7%25E7%25C5%25B0.jpg&type=f210_210_domesearch",
+        "link": "1625372637",
+        "title_cate": "카페,디저트",
+        "human_review": "2,560",
+        "blog_review": "1,108",
+        "addresses": "대구 중구 공평로8길 29 1층"
+    },
+    {
+        "ranking": "8",
+        "title": "청라언덕",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMTNfMzcg%2FMDAxNzA3ODA2NTEyOTE0.lsZR6JlbnhVhd0T6cFG6dqGlRKVX3XOAuq3t9YtmuXYg.cFk8otvuuvZAZNLq2CRngg9CntEYMrnRwD4Xy_xtP_sg.JPEG.qkralswn45%2FIMG_9896.jpg%232481x3308&type=f210_210_domesearch",
+        "link": "33800324",
+        "title_cate": "지역명소",
+        "human_review": "31",
+        "blog_review": "1,589",
+        "addresses": "대구 중구 달구벌대로 2029"
+    },
+    {
+        "ranking": "9",
+        "title": "삼송빵집 본점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200510_106%2F1589094151318RrDw0_JPEG%2FzHfA5u0YZ4pRgWdAjT_6y-DO.jpg&type=f210_210_domesearch",
+        "link": "15956340",
+        "title_cate": "베이커리",
+        "human_review": "4,479",
+        "blog_review": "1,579",
+        "addresses": "대구 중구 중앙대로 397"
+    },
+    {
+        "ranking": "10",
+        "title": "국채보상운동기념공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_159%2F1441026362202MopLK_JPEG%2F116363528070356_0.jpg&type=f210_210_domesearch",
+        "link": "13351829",
+        "title_cate": "테마공원",
+        "human_review": "189",
+        "blog_review": "1,208",
+        "addresses": "대구 중구 국채보상로 670 국채보상운동기념관"
+    },
+    {
+        "ranking": "11",
+        "title": "버터베이크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230711_87%2F1689004101643csnHJ_JPEG%2F8E7E1CD8-1097-4945-9D46-B8952FA1EA76.jpeg&type=f210_210_domesearch",
+        "link": "1868986203",
+        "title_cate": "베이커리",
+        "human_review": "652",
+        "blog_review": "265",
+        "addresses": "대구 중구 동성로 22-1 버터베이크"
+    },
+    {
+        "ranking": "12",
+        "title": "브릭62",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240510_178%2F17153224455535x0KT_GIF%2F20230620_162853_%25281%2529_1.gif&type=f210_210_domesearch",
+        "link": "1709627320",
+        "title_cate": "카페,디저트",
+        "human_review": "1,507",
+        "blog_review": "807",
+        "addresses": "대구 중구 봉산문화길 62 1층"
+    },
+    {
+        "ranking": "13",
+        "title": "롤러커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180209_87%2F1518138770533MjoO4_JPEG%2FsNqtCw6dnI5O9fB5ihIIiyNE.jpg&type=f210_210_domesearch",
+        "link": "120079934",
+        "title_cate": "테이크아웃커피",
+        "human_review": "1,149",
+        "blog_review": "1,586",
+        "addresses": "대구 중구 달구벌대로414길 36"
+    },
+    {
+        "ranking": "14",
+        "title": "슬로우터틀 동성로점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200311_264%2F15839147439465FVCK_JPEG%2FaLBNqZkovQXelJuSQRxIoC1l.jpg&type=f210_210_domesearch",
+        "link": "1504873562",
+        "title_cate": "카페,디저트",
+        "human_review": "1,271",
+        "blog_review": "1,277",
+        "addresses": "대구 중구 동성로2길 18-14 슬로우터틀 동성로점"
+    },
+    {
+        "ranking": "15",
+        "title": "달성공원 동물원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA1MDZfNTgg%2FMDAxNDk0MDM0NjUyOTg3.triDdevIjtuWS3sx2gG1uM7LIfKVssQwK0zj_tECxJAg.FZQzKWkdtXf7UJO6dtWsRqUS5dCYgYm8YZ8HleQOc7sg.JPEG.popo_rose%2FIMG_9497.JPG%233000x2000&type=f210_210_domesearch",
+        "link": "13475843",
+        "title_cate": "동물원",
+        "human_review": "3",
+        "blog_review": "662",
+        "addresses": "대구 중구 달성공원로 35 달성공원"
+    },
+    {
+        "ranking": "16",
+        "title": "따끈따끈베이커리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231125_243%2F1700845630862gj6oV_PNG%2FIMG_3528.png&type=f210_210_domesearch",
+        "link": "1969718436",
+        "title_cate": "베이커리",
+        "human_review": "351",
+        "blog_review": "295",
+        "addresses": "대구 중구 중앙대로 395 1F 따끈따끈베이커리"
+    },
+    {
+        "ranking": "17",
+        "title": "딥커피로스터스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201222_61%2F16086101773867psbu_JPEG%2FKIJlei8S8v85I550Ytau4bMZ.jpeg.jpg&type=f210_210_domesearch",
+        "link": "1405282901",
+        "title_cate": "카페,디저트",
+        "human_review": "810",
+        "blog_review": "1,238",
+        "addresses": "대구 중구 봉산문화2길 41 1층"
+    },
+    {
+        "ranking": "18",
+        "title": "동성로카페 스위트앤드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240426_274%2F1714115921896vXOMD_JPEG%2F20240321_171315.jpg&type=f210_210_domesearch",
+        "link": "37165575",
+        "title_cate": "카페,디저트",
+        "human_review": "923",
+        "blog_review": "539",
+        "addresses": "대구 중구 동성로2길 12-36 2층 스위트앤드"
+    },
+    {
+        "ranking": "19",
+        "title": "이얼즈",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220712_177%2F16576020688332h5h8_JPEG%2F8D6DF056-0192-4B81-8468-020236D4C6AE.jpeg&type=f210_210_domesearch",
+        "link": "1304127896",
+        "title_cate": "카페,디저트",
+        "human_review": "7,339",
+        "blog_review": "771",
+        "addresses": "대구 중구 공평로 79 . 1층,2층(동문동)"
+    },
+    {
+        "ranking": "20",
+        "title": "오가닉모가",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211210_197%2F1639108779956Tc7S6_JPEG%2FF2EE4705-2795-43A9-BC98-01E79C3B1640.jpeg&type=f210_210_domesearch",
+        "link": "1277959053",
+        "title_cate": "베이커리",
+        "human_review": "566",
+        "blog_review": "984",
+        "addresses": "대구 중구 동덕로 48-5 오가닉모가"
+    }
+]
