@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "카페 대너리스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230421_241%2F1682003226012tPpaS_JPEG%2FIMG_2630.jpeg&type=f210_210_domesearch",
+        "link": "37174820",
+        "title_cate": "카페,디저트",
+        "human_review": "10,550",
+        "blog_review": "6,753",
+        "addresses": "경기 남양주시 조안면 북한강로 914"
+    },
+    {
+        "ranking": "2",
+        "title": "가람 베이커리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240622_26%2F1719023664603rLXUl_JPEG%2FIMG_6163.jpeg&type=f210_210_domesearch",
+        "link": "1977976174",
+        "title_cate": "카페,디저트",
+        "human_review": "2,634",
+        "blog_review": "1,795",
+        "addresses": "경기 남양주시 화도읍 북한강로1570번길 5 가람 베이커리"
+    },
+    {
+        "ranking": "3",
+        "title": "로이테",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230710_44%2F1688989627042aW7rE_JPEG%2FIMG_5963.jpg&type=f210_210_domesearch",
+        "link": "1483012662",
+        "title_cate": "카페,디저트",
+        "human_review": "3,554",
+        "blog_review": "12,406",
+        "addresses": "경기 남양주시 조안면 북한강로 866 카페로이테"
+    },
+    {
+        "ranking": "4",
+        "title": "미호박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_223%2F1698481034342po5BN_JPEG%2F1698477538963.jpg&type=f210_210_domesearch",
+        "link": "35379264",
+        "title_cate": "박물관",
+        "human_review": "3,225",
+        "blog_review": "1,240",
+        "addresses": "경기 남양주시 고산로126번길 15-2 미호박물관"
+    },
+    {
+        "ranking": "5",
+        "title": "팔현계곡",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA4MjNfOTkg%2FMDAxNjI5NzAxMjQ0Mjcz.FWCUUKJ2nAGfAYpOqugR-QSZe988dpnaeNqcG61uKlEg.q5Wl3SegB7E-6XdKceMG5rUuuzH5-eTq9GKzsG_PVRIg.JPEG.nyjloving%2F10.jpg%231200x800&type=f210_210_domesearch",
+        "link": "1245109750",
+        "title_cate": "계곡",
+        "human_review": "5",
+        "blog_review": "65",
+        "addresses": "경기 남양주시 오남읍 팔현로 177"
+    },
+    {
+        "ranking": "6",
+        "title": "라온숨",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240326_31%2F1711438934177Yd2i3_JPEG%2FIMG_3690_%2528%25BC%25F6%25C6%25F2%2529_%25BA%25B9%25BB%25E7.jpg&type=f210_210_domesearch",
+        "link": "1529049266",
+        "title_cate": "카페,디저트",
+        "human_review": "7,377",
+        "blog_review": "3,137",
+        "addresses": "경기 남양주시 화도읍 북한강로 1146"
+    },
+    {
+        "ranking": "7",
+        "title": "고당",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190813_41%2F1565668157940gw8pg_JPEG%2F4vXxuXS6TYEu2WeEmJfAuOu9.jpeg.jpg&type=f210_210_domesearch",
+        "link": "13044258",
+        "title_cate": "카페",
+        "human_review": "6,143",
+        "blog_review": "3,106",
+        "addresses": "경기 남양주시 조안면 북한강로 121 고당"
+    },
+    {
+        "ranking": "8",
+        "title": "물의정원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_98%2F1441004890453hVIq7_JPEG%2F156769588041832_1.jpeg&type=f210_210_domesearch",
+        "link": "35506762",
+        "title_cate": "자연공원",
+        "human_review": "244",
+        "blog_review": "6,390",
+        "addresses": "경기 남양주시 조안면 북한강로 398"
+    },
+    {
+        "ranking": "9",
+        "title": "포러데이 팔당",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180421_193%2F1524241005004uLtxx_JPEG%2F1.jpg&type=f210_210_domesearch",
+        "link": "1491718614",
+        "title_cate": "카페,디저트",
+        "human_review": "5,037",
+        "blog_review": "2,782",
+        "addresses": "경기 남양주시 와부읍 경강로926번길 8-7"
+    },
+    {
+        "ranking": "10",
+        "title": "보나리베",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191111_209%2F15734489718515ujdE_JPEG%2FQNEBRFHiyYsO5X6eot9yEcEk.jpg&type=f210_210_domesearch",
+        "link": "1188021960",
+        "title_cate": "카페,디저트",
+        "human_review": "19,779",
+        "blog_review": "22,929",
+        "addresses": "경기 남양주시 불암산로39번길 9-2 보나리베"
+    },
+    {
+        "ranking": "11",
+        "title": "인크커피 다산점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_206%2F17043561407670HMjk_JPEG%2F%25C0%25CE%25C5%25A9%25C4%25BF%25C7%25C7_%25B4%25D9%25BB%25EA%25C1%25A1.jpg&type=f210_210_domesearch",
+        "link": "1635288312",
+        "title_cate": "카페,디저트",
+        "human_review": "963",
+        "blog_review": "1,228",
+        "addresses": "경기 남양주시 다산순환로 20 다산 현대프리미어캠퍼스몰 A동 B1F-1F"
+    },
+    {
+        "ranking": "12",
+        "title": "닉센",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240523_214%2F1716455142880jXelR_JPEG%2F%25B4%25D0%25BC%25BE_%25B7%25E7%25C7%25C1%25C5%25BE1.jpg&type=f210_210_domesearch",
+        "link": "1151303843",
+        "title_cate": "카페,디저트",
+        "human_review": "16,942",
+        "blog_review": "15,947",
+        "addresses": "경기 남양주시 불암산로59번길 16-15 1층 2층 3층 4층"
+    },
+    {
+        "ranking": "13",
+        "title": "산들소리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240510_198%2F1715323128300wOUDu_JPEG%2FKakaoTalk_20240424_111650268_09.jpg&type=f210_210_domesearch",
+        "link": "13068233",
+        "title_cate": "식물원,수목원",
+        "human_review": "7,091",
+        "blog_review": "1,845",
+        "addresses": "경기 남양주시 불암산로59번길 48-31 산들소리"
+    },
+    {
+        "ranking": "14",
+        "title": "하우스 용암",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230725_164%2F1690279410748WX6pm_JPEG%2FIMG_8269_2.jpg&type=f210_210_domesearch",
+        "link": "1312835402",
+        "title_cate": "브런치카페",
+        "human_review": "3,995",
+        "blog_review": "9,695",
+        "addresses": "경기 남양주시 별내면 용암도감말길 7-10 하우스용암"
+    },
+    {
+        "ranking": "15",
+        "title": "봉커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230531_14%2F16855030664918iwnp_JPEG%2FDSC00621.jpg&type=f210_210_domesearch",
+        "link": "37499936",
+        "title_cate": "카페,디저트",
+        "human_review": "1,948",
+        "blog_review": "1,821",
+        "addresses": "경기 남양주시 천마산로 110 봉커피"
+    },
+    {
+        "ranking": "16",
+        "title": "플랜트202",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230830_141%2F1693362754800oqdLl_JPEG%2F1693362438707.jpg&type=f210_210_domesearch",
+        "link": "482147287",
+        "title_cate": "브런치카페",
+        "human_review": "881",
+        "blog_review": "2,999",
+        "addresses": "경기 남양주시 화도읍 재재기로 50-11 1층 건물"
+    },
+    {
+        "ranking": "17",
+        "title": "축령산자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_178%2F1440992284129wXyrT_JPEG%2F11491553_0.jpg&type=f210_210_domesearch",
+        "link": "11491553",
+        "title_cate": "휴양림,산림욕장",
+        "human_review": "1,828",
+        "blog_review": "1,140",
+        "addresses": "경기 남양주시 수동면 축령산로 299"
+    },
+    {
+        "ranking": "18",
+        "title": "베이커리 씨어터",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190618_241%2F1560830015740SDWGU_JPEG%2FpZRTzduzYv4FbF01nkxyhHJp.jpeg.jpg&type=f210_210_domesearch",
+        "link": "35608479",
+        "title_cate": "카페,디저트",
+        "human_review": "8,773",
+        "blog_review": "2,256",
+        "addresses": "경기 남양주시 화도읍 경춘로2696번길 4-15"
+    },
+    {
+        "ranking": "19",
+        "title": "더드림핑 글램핑",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240524_233%2F1716523828697XybRf_JPEG%2F%25B5%25E5%25B8%25B2%25BD%25BA%25C5%25D7%25C0%25CC%25C7%25B3%25B5%25A2_01.jpg&type=f210_210_domesearch",
+        "link": "1277518395",
+        "title_cate": "캠핑,야영장",
+        "human_review": "1,416",
+        "blog_review": "862",
+        "addresses": "경기 남양주시 화도읍 북한강로 1630-18 더드림핑"
+    },
+    {
+        "ranking": "20",
+        "title": "팔당로그",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_27%2F1716824108335yvTpo_JPEG%2FA0F07C8D-3B92-475A-ACBF-7C35FC47A00F.jpeg&type=f210_210_domesearch",
+        "link": "1845407311",
+        "title_cate": "카페,디저트",
+        "human_review": "1,315",
+        "blog_review": "1,526",
+        "addresses": "경기 남양주시 와부읍 팔당로81번길 74-40 팔당 로그"
+    }
+]
