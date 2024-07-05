@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "비봉공룡공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230406_275%2F1680746753844YD9WD_JPEG%2Fbanner_x.jpg&type=f210_210_domesearch",
+        "link": "434696838",
+        "title_cate": "박물관",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 득량면 공룡로 822-51"
+    },
+    {
+        "ranking": "2",
+        "title": "제암산자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_179%2F1441000961318Eqp3Q_JPEG%2FSUBMIT_1426668425785_13165391.jpg&type=f210_210_domesearch",
+        "link": "13165391",
+        "title_cate": "휴양림,산림욕장",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 웅치면 대산길 330"
+    },
+    {
+        "ranking": "3",
+        "title": "대한다원보성녹차밭",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_49%2F1441010782646jl8oG_JPEG%2F126173537120450_0.jpg&type=f210_210_domesearch",
+        "link": "19707383",
+        "title_cate": "지역명소",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 보성읍 녹차로 763-43"
+    },
+    {
+        "ranking": "4",
+        "title": "율포해수녹차센터",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190221_178%2F1550711655472c9T2O_JPEG%2FTvBwfkdyKnPZKU8Z_d4SfObg.JPG.jpg&type=f210_210_domesearch",
+        "link": "1354486052",
+        "title_cate": "온천,스파",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 회천면 우암길 21"
+    },
+    {
+        "ranking": "5",
+        "title": "모리씨 빵가게",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240304_87%2F1709526434089OzMrO_JPEG%2FKakaoTalk_20240304_132016838_24.jpg&type=f210_210_domesearch",
+        "link": "1327426191",
+        "title_cate": "베이커리",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 벌교읍 태백산맥길 40 모리씨빠가게"
+    },
+    {
+        "ranking": "6",
+        "title": "숲정원 윤제림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230323_17%2F1679556779288lhuup_JPEG%2FKakaoTalk_20230321_122455812.jpg&type=f210_210_domesearch",
+        "link": "1631120723",
+        "title_cate": "관광농원,팜스테이",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 겸백면 주월산길 222"
+    },
+    {
+        "ranking": "7",
+        "title": "춘운서옥",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190918_251%2F15688068731944vGgu_JPEG%2FEN6BCvuoS-OKV4Y_73v-msNX.jpg&type=f210_210_domesearch",
+        "link": "1965686764",
+        "title_cate": "카페",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 보성읍 송재로 211-9 춘운서옥"
+    },
+    {
+        "ranking": "8",
+        "title": "율포솔밭해수욕장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_19%2F14409922979025CRAc_JPEG%2F11491765_0.jpg&type=f210_210_domesearch",
+        "link": "11491765",
+        "title_cate": "해수욕장,해변",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 회천면 동율리 544-13"
+    },
+    {
+        "ranking": "9",
+        "title": "프로메사",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240703_148%2F1720003729219hyIYK_JPEG%2FKakaoTalk_20240625_103832960_01.jpg&type=f210_210_domesearch",
+        "link": "1904368180",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 벌교읍 계성2길 14 1층"
+    },
+    {
+        "ranking": "10",
+        "title": "코클맨션",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221102_263%2F1667359699522Ig8Kr_JPEG%2FE850BC73-6034-4EE6-9966-25F3917FB921.jpeg&type=f210_210_domesearch",
+        "link": "1988894973",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 벌교읍 벌교상고길 20-1"
+    },
+    {
+        "ranking": "11",
+        "title": "산들바람 글램핑",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220927_240%2F1664241314959DggCq_JPEG%2FKakaoTalk_20220926_182227632_01.jpg&type=f210_210_domesearch",
+        "link": "1383230103",
+        "title_cate": "캠핑,야영장",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 벌교읍 조정래길 248-5 산들바람글램핑"
+    },
+    {
+        "ranking": "12",
+        "title": "율포오토캠핑리조트",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220507_225%2F1651898162497KJOKS_JPEG%2F1.jpg&type=f210_210_domesearch",
+        "link": "32965071",
+        "title_cate": "캠핑,야영장",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 회천면 충의로 52"
+    },
+    {
+        "ranking": "13",
+        "title": "플라밍고 카페",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220921_12%2F1663724942636eSyNA_JPEG%2FDSC_1630.jpg&type=f210_210_domesearch",
+        "link": "1544199571",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 회천면 충의로 216-4 플라밍고 카페"
+    },
+    {
+        "ranking": "14",
+        "title": "태백산맥문학관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_293%2F1440989197806mz1SG_GIF%2F106558504453826_0.gif&type=f210_210_domesearch",
+        "link": "13118290",
+        "title_cate": "박물관",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 벌교읍 홍암로 89-19"
+    },
+    {
+        "ranking": "15",
+        "title": "카페 록",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240428_231%2F1714291203962x5q3s_JPEG%2Fjpg_%25282%2529.jpg&type=f210_210_domesearch",
+        "link": "1733101573",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 웅치면 일림로 530-24 카페 록"
+    },
+    {
+        "ranking": "16",
+        "title": "한국차문화공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzExMjlfMjE4%2FMDAxNTExOTQ0NDI5MDI1.HpSgTZ5pl0rjGb2l7DViZrf74S776E-XMZi-67ZIsqQg.iAjVDUOzB6QbDyDLBYr30L0cIM0J3boEvljQnvqRBVQg.PNG.kisun805%2F2.PNG%231180x496&type=f210_210_domesearch",
+        "link": "17405721",
+        "title_cate": "도시,테마공원",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 보성읍 녹차로 775"
+    },
+    {
+        "ranking": "17",
+        "title": "보성 지중해 야영장",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA2MTFfNDIg%2FMDAxNzE4MDYwMzU3NDE4.HkOawcrfxfVpKrl7heTR7OhhkESEeKRH8_2nvcmd7ogg.PXP6pc4Ap-hXt_KIsxxw3LAvBesk7Vuc2wX6xi-Yd_Ig.JPEG%2FIMG_9396.jpg%23900x1200&type=f210_210_domesearch",
+        "link": "1155797860",
+        "title_cate": "캠핑,야영장",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 회천면 공룡로 206-42"
+    },
+    {
+        "ranking": "18",
+        "title": "한국차박물관",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA5MjZfNDUg%2FMDAxNTA2NDM1OTM4ODA2.ZODPFx-g_NSH2lwjpusoAUh0R78zBiZ4-7rj2SgH2S8g.88MhmX-rxrXUQwMTOdo6KA_ZZ6k1bCJ-8UV7biXGOfAg.JPEG.namdokorea%2F1.jpg%23960x641&type=f210_210_domesearch",
+        "link": "20115525",
+        "title_cate": "박물관",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 보성읍 녹차로 775 한국차-소리문화공원"
+    },
+    {
+        "ranking": "19",
+        "title": "대원사",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_59%2F1441013648996BbGDJ_JPEG%2F11664038_0.jpg&type=f210_210_domesearch",
+        "link": "11664038",
+        "title_cate": "절,사찰",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 문덕면 죽산길 506-8"
+    },
+    {
+        "ranking": "20",
+        "title": "그린하우스제과점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240107_142%2F1704629410681jSBOb_JPEG%2F1682210310171.jpg&type=f210_210_domesearch",
+        "link": "32231835",
+        "title_cate": "베이커리",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "전남 보성군 보성읍 신흥길 6-3"
+    }
+]
