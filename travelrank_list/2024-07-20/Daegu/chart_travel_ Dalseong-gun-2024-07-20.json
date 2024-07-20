@@ -1,0 +1,202 @@
+[
+    {
+        "ranking": "1",
+        "title": "스파밸리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220722_42%2F1658461197606ztl6j_JPEG%2Fbanner_fontx.jpg&type=f210_210_domesearch",
+        "link": "11657766",
+        "title_cate": "워터파크",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 가창면 가창로 891 워터파크 스파밸리"
+    },
+    {
+        "ranking": "2",
+        "title": "네이처파크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240614_167%2F1718349969161QLi7Q_JPEG%2Fbanner.jpg&type=f210_210_domesearch",
+        "link": "37878933",
+        "title_cate": "동물원",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 가창면 가창로 891"
+    },
+    {
+        "ranking": "3",
+        "title": "오퐁드부아",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180404_258%2F1522849095893UR5bD_JPEG%2FUcSp8NU8SPeYMIkB7unWBrCq.jpeg.jpg&type=f210_210_domesearch",
+        "link": "1953230167",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 가창면 주리2길 104"
+    },
+    {
+        "ranking": "4",
+        "title": "주리485",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240713_90%2F1720843946947kwWwP_JPEG%2FKakaoTalk_20240713_131059736_01.jpg&type=f210_210_domesearch",
+        "link": "1096175388",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 가창면 주리2길 48 주리485카페"
+    },
+    {
+        "ranking": "5",
+        "title": "묘운",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230825_192%2F1692893679811SpW70_JPEG%2F1FE97FC3-4DCC-4FBB-B660-514E5F128E5E.jpeg&type=f210_210_domesearch",
+        "link": "1280848803",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 하빈면 육신사길 34 1층"
+    },
+    {
+        "ranking": "6",
+        "title": "까사드테하",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_157%2F1705204428450p2gi0_JPEG%2F59FB94A6-A6B7-437B-AE80-97D3D5FCC5DF.jpeg&type=f210_210_domesearch",
+        "link": "1857365950",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 가창면 녹문길 16-11 1층"
+    },
+    {
+        "ranking": "7",
+        "title": "룰리커피 가창점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_224%2F1695719497801dcG3s_JPEG%2FKakaoTalk_20230926_181121825.jpg&type=f210_210_domesearch",
+        "link": "1859402217",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 가창면 우록길 76"
+    },
+    {
+        "ranking": "8",
+        "title": "대새목장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240522_243%2F1716360112652Pwon5_JPEG%2FScreenshot_20240522_154111_Instagram.jpg&type=f210_210_domesearch",
+        "link": "1911351779",
+        "title_cate": "카페",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 가창면 가창로93길 523"
+    },
+    {
+        "ranking": "9",
+        "title": "옥연지 송해공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180823_165%2F15350133204517PCuu_JPEG%2F3PGXJYQjs-ODFG7B73LPB1Ga.jpg&type=f210_210_domesearch",
+        "link": "1213250330",
+        "title_cate": "근린공원",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 옥포읍 기세리 306"
+    },
+    {
+        "ranking": "10",
+        "title": "비슬산자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_97%2F1441001263748HdiD9_JPEG%2F11591736_0.jpg&type=f210_210_domesearch",
+        "link": "11591736",
+        "title_cate": "휴양림,산림욕장",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 유가읍 일연선사길 99"
+    },
+    {
+        "ranking": "11",
+        "title": "마고플레인 강정보점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230602_112%2F1685689090444whJo3_JPEG%2FKakaoTalk_20230531_162057452_21.jpg&type=f210_210_domesearch",
+        "link": "1193052767",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 다사읍 강정본길 68-18 마고플레인 강정보점"
+    },
+    {
+        "ranking": "12",
+        "title": "라운드힐905",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240625_163%2F1719303057509TlHH2_JPEG%2FKakaoTalk_20240625_150441942.jpg&type=f210_210_domesearch",
+        "link": "1140977117",
+        "title_cate": "캠핑,야영장",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 가창면 주리2길 42 라운드힐 905 (주리485카페 아래쪽 캠핑장)"
+    },
+    {
+        "ranking": "13",
+        "title": "도케비커피 본점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210824_237%2F1629766718849Qbcho_JPEG%2FERg8yHLEZup1mNvqLNLE96yh.jpg&type=f210_210_domesearch",
+        "link": "1001725200",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 유가읍 음동길 130-15 도케비커피"
+    },
+    {
+        "ranking": "14",
+        "title": "국립대구과학관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180102_175%2F1514881688578x6GOj_JPEG%2Fu6Bnu2TRUsjOyg2umn6r9p4o.jpg&type=f210_210_domesearch",
+        "link": "16222337",
+        "title_cate": "과학관",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 유가읍 테크노대로6길 20"
+    },
+    {
+        "ranking": "15",
+        "title": "바토플루이르 송해",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230310_172%2F1678435116066WwKPE_JPEG%2F332021684_877367736858172_6809211142170264844_n.jpg&type=f210_210_domesearch",
+        "link": "1348335744",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 옥포읍 옥포로57길 57-7 1층"
+    },
+    {
+        "ranking": "16",
+        "title": "스테이블모먼트 화원점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220823_90%2F16611828788556EAnc_JPEG%2FDD2A432C-A57D-4EA9-BBCA-E7A38AD0B7D3.jpeg&type=f210_210_domesearch",
+        "link": "1377668841",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 화원읍 비슬로 2614-9 스테이블 모먼트"
+    },
+    {
+        "ranking": "17",
+        "title": "벨베꼼메",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240131_103%2F1706687133647uj3NC_JPEG%2F%25BA%25B0%25B0%25FC%25B3%25BB%25BA%25CE.jpg&type=f210_210_domesearch",
+        "link": "1153579905",
+        "title_cate": "카페,디저트",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 다사읍 세천북로 66"
+    },
+    {
+        "ranking": "18",
+        "title": "바토 플루이르 다사점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230113_293%2F1673584558100p7iWC_JPEG%2FPPC04481.jpg&type=f210_210_domesearch",
+        "link": "1363760638",
+        "title_cate": "카페",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 다사읍 달구벌대로92길 108 1층 바토플루이르"
+    },
+    {
+        "ranking": "19",
+        "title": "아틀란티스 대구점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230315_60%2F1678861775576orIql_JPEG%2F%25B4%25EB%25B1%25B8%25C7%25F6%25C7%25B3-012_copy.jpg&type=f210_210_domesearch",
+        "link": "1369463107",
+        "title_cate": "키즈카페,실내놀이터",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 현풍읍 테크노대로 40 3층 303호"
+    },
+    {
+        "ranking": "20",
+        "title": "게이블루프커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_13%2F1718767994173UIyQ2_JPEG%2FIMG_1119.jpeg&type=f210_210_domesearch",
+        "link": "1352780574",
+        "title_cate": "카페",
+        "human_review": "",
+        "blog_review": "",
+        "addresses": "대구 달성군 다사읍 강정본길 77"
+    }
+]
