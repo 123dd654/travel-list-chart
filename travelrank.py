@@ -11,10 +11,10 @@ import json
 import os
 import re
 
-# 현재 날짜 가져오기
+# 현재 날짜
 current_date = datetime.now().strftime("%Y-%m-%d")
 
-# 한글 지역명과 영어 지역명 대응하는 딕셔너리 생성
+# 한글-영어 지역명 딕셔너리 (필요 시 일부만 사용 가능)
 korean_administrative_units_list = {
     "Seoul": {
         "서울강남구": "Gangnam-gu",
@@ -281,35 +281,33 @@ korean_administrative_units_list = {
 }
 
 
-# 현재 날짜로 된 폴더 생성
+# JSON 저장 폴더
 base_folder_path = os.path.join(os.getcwd(), "travelrank_list", current_date)
 os.makedirs(base_folder_path, exist_ok=True)
 
-# 웹드라이브 설치
-service = ChromeService(executable_path=ChromeDriverManager().install())
+# 크롬 서비스
+service = ChromeService(ChromeDriverManager().install())
+
+# 크롬 옵션
+options = ChromeOptions()
+options.add_argument("--headless")
+options.add_argument("--no-sandbox")
+options.add_argument("--disable-dev-shm-usage")
 
 for city, districts in korean_administrative_units_list.items():
     city_folder_path = os.path.join(base_folder_path, city)
     os.makedirs(city_folder_path, exist_ok=True)
 
     for district_korean, district_english in districts.items():
-        # URL 생성
         url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={district_korean}+여행"
-
-        # 웹드라이버 초기화
-        options = ChromeOptions()
-        options.add_argument("--headless")
         browser = webdriver.Chrome(service=service, options=options)
         browser.get(url)
 
-        # 페이지가 완전히 로드될 때까지 대기
-        WebDriverWait(browser, 2).until(EC.visibility_of_element_located((By.CLASS_NAME, "main_pack")))
+        # 페이지 로딩 대기
+        WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.CLASS_NAME, "main_pack")))
 
-        # 페이지 소스를 가져와서 파싱
-        html_source_updated = browser.page_source
-        soup = BeautifulSoup(html_source_updated, 'html.parser')
+        soup = BeautifulSoup(browser.page_source, 'html.parser')
 
-        # 데이터 추출
         travel_data = []
         travels_list = soup.select("#nxTsDo > div > div > div.do_content > div > div:nth-child(5) > div.ScrollBox-mso6a.Poi_filteredPoi-vqFVt.Poi_filteredPoi-HVLwu > div.information-iiK8v > ul > li.item-wJaHc")
         for travel in travels_list:
@@ -317,8 +315,6 @@ for city, districts in korean_administrative_units_list.items():
             title = travel.find('span', class_='name-K_anJ').text.strip()
             img_tag = travel.find('img', class_='img-q5u9H')['src']
             link_tag = travel.find('a', class_='anchor-X0MS6')['href']
-
-            # 링크에서 번호 부분만 추출
             place_id_match = re.search(r'place/(\d+)', link_tag)
             place_id = place_id_match.group(1) if place_id_match else ""
 
@@ -329,52 +325,46 @@ for city, districts in korean_administrative_units_list.items():
                 'link': place_id
             })
 
-        # 각 링크에 접속하여 추가 데이터 추출
+        # 상세 페이지
         for travel in travel_data:
             place_id = travel['link']
+            if not place_id:
+                continue
             new_url = f"https://pcmap.place.naver.com/place/{place_id}/home"
             browser.get(new_url)
-            WebDriverWait(browser, 2).until(EC.visibility_of_element_located((By.ID, "app-root")))
+            WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.ID, "app-root")))
+            detail_soup = BeautifulSoup(browser.page_source, 'html.parser')
 
-            detail_html_source = browser.page_source
-            detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
-
-            # lnJFt 클래스명의 span 태그에서 텍스트 한 번만 추출
-            span_text = ""
+            # 카테고리
             span_element = detail_soup.find('span', class_='lnJFt')
-            if span_element:
-                span_text = span_element.text.strip()
+            title_cate = span_element.text.strip() if span_element else ""
 
-            # PXMot 클래스명의 span 태그에서 a 태그의 텍스트 추출
+            # 리뷰
             reviews = detail_soup.find_all('span', class_='PXMot')
-            human_review = ""
-            blog_review = ""
+            human_review = blog_review = ""
             for review in reviews:
                 a_tag = review.find('a')
                 if a_tag:
-                    review_text = ''.join(a_tag.stripped_strings)
-                    if '방문자리뷰' in review_text:
-                        human_review = review_text.replace('방문자리뷰', '').strip()
-                    elif '블로그리뷰' in review_text:
-                        blog_review = review_text.replace('블로그리뷰', '').strip()
+                    text = ''.join(a_tag.stripped_strings)
+                    if '방문자리뷰' in text:
+                        human_review = text.replace('방문자리뷰','').strip()
+                    elif '블로그리뷰' in text:
+                        blog_review = text.replace('블로그리뷰','').strip()
 
-            # LDgIH 클래스명의 span 태그에서 텍스트 한 번만 추출
-            addresses_text = ""
-            addresses_element = detail_soup.find('span', class_='LDgIH')
-            if addresses_element:
-                addresses_text = addresses_element.text.strip()
+            # 주소
+            addr_element = detail_soup.find('span', class_='LDgIH')
+            addresses = addr_element.text.strip() if addr_element else ""
 
             travel.update({
-                'title_cate': span_text,
+                'title_cate': title_cate,
                 'human_review': human_review,
                 'blog_review': blog_review,
-                'addresses': addresses_text
+                'addresses': addresses
             })
 
-        # 파일명 생성 및 데이터 저장
+        # JSON 저장
         filename = os.path.join(city_folder_path, f"chart_travel_{district_english}-{current_date}.json")
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(travel_data, f, ensure_ascii=False, indent=4)
 
-        # 브라우저 종료
         browser.quit()
