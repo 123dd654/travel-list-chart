@@ -6,15 +6,16 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 import json
 import os
 import re
 
-# 현재 날짜
-current_date = datetime.now().strftime("%Y-%m-%d")
+# 수집 시작일과 종료일 설정
+START_DATE = datetime(2024, 9, 10)
+END_DATE = datetime(2025, 9, 4)  # 종료일 포함
 
-# 한글-영어 지역명 딕셔너리 (필요 시 일부만 사용 가능)
+# 한글-영어 지역명 딕셔너리
 korean_administrative_units_list = {
     "Seoul": {
         "서울강남구": "Gangnam-gu",
@@ -280,91 +281,104 @@ korean_administrative_units_list = {
     }
 }
 
-
-# JSON 저장 폴더
-base_folder_path = os.path.join(os.getcwd(), "travelrank_list", current_date)
-os.makedirs(base_folder_path, exist_ok=True)
-
-# 크롬 서비스
+# 크롬 서비스와 옵션
 service = ChromeService(ChromeDriverManager().install())
-
-# 크롬 옵션
 options = ChromeOptions()
 options.add_argument("--headless")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 
-for city, districts in korean_administrative_units_list.items():
-    city_folder_path = os.path.join(base_folder_path, city)
-    os.makedirs(city_folder_path, exist_ok=True)
+# 데이터 수집 함수
+def collect_travel_data(target_date: datetime):
+    date_str = target_date.strftime("%Y-%m-%d")
+    base_folder_path = os.path.join(os.getcwd(), "travelrank_list", date_str)
+    os.makedirs(base_folder_path, exist_ok=True)
 
-    for district_korean, district_english in districts.items():
-        url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={district_korean}+여행"
-        browser = webdriver.Chrome(service=service, options=options)
-        browser.get(url)
+    for city, districts in korean_administrative_units_list.items():
+        city_folder_path = os.path.join(base_folder_path, city)
+        os.makedirs(city_folder_path, exist_ok=True)
 
-        # 페이지 로딩 대기
-        WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.CLASS_NAME, "main_pack")))
-
-        soup = BeautifulSoup(browser.page_source, 'html.parser')
-
-        travel_data = []
-        travels_list = soup.select("#nxTsDo > div > div > div.do_content > div > div:nth-child(5) > div.ScrollBox-mso6a.Poi_filteredPoi-vqFVt.Poi_filteredPoi-HVLwu > div.information-iiK8v > ul > li.item-wJaHc")
-        for travel in travels_list:
-            ranking = travel.find('div', class_='rank-kEDoI').text.strip()
-            title = travel.find('span', class_='name-K_anJ').text.strip()
-            img_tag = travel.find('img', class_='img-q5u9H')['src']
-            link_tag = travel.find('a', class_='anchor-X0MS6')['href']
-            place_id_match = re.search(r'place/(\d+)', link_tag)
-            place_id = place_id_match.group(1) if place_id_match else ""
-
-            travel_data.append({
-                'ranking': ranking,
-                'title': title,
-                'image_url': img_tag,
-                'link': place_id
-            })
-
-        # 상세 페이지
-        for travel in travel_data:
-            place_id = travel['link']
-            if not place_id:
+        for district_korean, district_english in districts.items():
+            filename = os.path.join(city_folder_path, f"chart_travel_{district_english}-{date_str}.json")
+            # 이미 수집한 파일은 건너뛰기
+            if os.path.exists(filename):
+                print(f"Already exists: {filename}, skipping...")
                 continue
-            new_url = f"https://pcmap.place.naver.com/place/{place_id}/home"
-            browser.get(new_url)
-            WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.ID, "app-root")))
-            detail_soup = BeautifulSoup(browser.page_source, 'html.parser')
 
-            # 카테고리
-            span_element = detail_soup.find('span', class_='lnJFt')
-            title_cate = span_element.text.strip() if span_element else ""
+            url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={district_korean}+여행"
+            browser = webdriver.Chrome(service=service, options=options)
+            browser.get(url)
 
-            # 리뷰
-            reviews = detail_soup.find_all('span', class_='PXMot')
-            human_review = blog_review = ""
-            for review in reviews:
-                a_tag = review.find('a')
-                if a_tag:
-                    text = ''.join(a_tag.stripped_strings)
-                    if '방문자리뷰' in text:
-                        human_review = text.replace('방문자리뷰','').strip()
-                    elif '블로그리뷰' in text:
-                        blog_review = text.replace('블로그리뷰','').strip()
+            # 페이지 로딩 대기
+            WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.CLASS_NAME, "main_pack")))
 
-            # 주소
-            addr_element = detail_soup.find('span', class_='LDgIH')
-            addresses = addr_element.text.strip() if addr_element else ""
+            soup = BeautifulSoup(browser.page_source, 'html.parser')
 
-            travel.update({
-                'title_cate': title_cate,
-                'human_review': human_review,
-                'blog_review': blog_review,
-                'addresses': addresses
-            })
+            travel_data = []
+            travels_list = soup.select("#nxTsDo > div > div > div.do_content > div > div:nth-child(5) > div.ScrollBox-mso6a.Poi_filteredPoi-vqFVt.Poi_filteredPoi-HVLwu > div.information-iiK8v > ul > li.item-wJaHc")
+            for travel in travels_list:
+                ranking = travel.find('div', class_='rank-kEDoI').text.strip()
+                title = travel.find('span', class_='name-K_anJ').text.strip()
+                img_tag = travel.find('img', class_='img-q5u9H')['src']
+                link_tag = travel.find('a', class_='anchor-X0MS6')['href']
+                place_id_match = re.search(r'place/(\d+)', link_tag)
+                place_id = place_id_match.group(1) if place_id_match else ""
 
-        # JSON 저장
-        filename = os.path.join(city_folder_path, f"chart_travel_{district_english}-{current_date}.json")
-        with open(filename, 'w', encoding='utf-8') as f:
-            json.dump(travel_data, f, ensure_ascii=False, indent=4)
+                travel_data.append({
+                    'ranking': ranking,
+                    'title': title,
+                    'image_url': img_tag,
+                    'link': place_id
+                })
 
-        browser.quit()
+            # 상세 페이지
+            for travel in travel_data:
+                place_id = travel['link']
+                if not place_id:
+                    continue
+                new_url = f"https://pcmap.place.naver.com/place/{place_id}/home"
+                browser.get(new_url)
+                WebDriverWait(browser, 2).until(EC.presence_of_element_located((By.ID, "app-root")))
+                detail_soup = BeautifulSoup(browser.page_source, 'html.parser')
+
+                span_element = detail_soup.find('span', class_='lnJFt')
+                title_cate = span_element.text.strip() if span_element else ""
+
+                reviews = detail_soup.find_all('span', class_='PXMot')
+                human_review = blog_review = ""
+                for review in reviews:
+                    a_tag = review.find('a')
+                    if a_tag:
+                        text = ''.join(a_tag.stripped_strings)
+                        if '방문자리뷰' in text:
+                            human_review = text.replace('방문자리뷰','').strip()
+                        elif '블로그리뷰' in text:
+                            blog_review = text.replace('블로그리뷰','').strip()
+
+                addr_element = detail_soup.find('span', class_='LDgIH')
+                addresses = addr_element.text.strip() if addr_element else ""
+
+                travel.update({
+                    'title_cate': title_cate,
+                    'human_review': human_review,
+                    'blog_review': blog_review,
+                    'addresses': addresses
+                })
+
+            # JSON 저장
+            with open(filename, 'w', encoding='utf-8') as f:
+                json.dump(travel_data, f, ensure_ascii=False, indent=4)
+
+            browser.quit()
+            print(f"Saved: {filename}")
+
+# 메인 실행
+def main():
+    next_date = START_DATE
+    today = datetime.now()
+    while next_date <= END_DATE and next_date <= today - timedelta(days=1):
+        collect_travel_data(next_date)
+        next_date += timedelta(days=1)
+
+if __name__ == "__main__":
+    main()
