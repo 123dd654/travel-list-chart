@@ -61,7 +61,7 @@ jobs:
     - name: Commit changes
       run: |
         git add .
-        git commit -m "Committing travel chart data"
+        git commit -m "Add latest travelrank_list data" || echo "No changes to commit"
 
     - name: Push changes
       uses: ad-m/github-push-action@master
