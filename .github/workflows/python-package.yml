@@ -48,7 +48,7 @@ jobs:
         echo "FOLDERS=$folders" >> $GITHUB_ENV
     
     - name: Upload artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: my_artifact
         path: ${{ env.FOLDERS }}
